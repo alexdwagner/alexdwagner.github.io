@@ -1,0 +1,44 @@
+---
+#
+---
+
+@import "base";
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+  
+.content-wrapper {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+}
+  
+.sidebar {
+    flex: 1;
+    padding: 1rem;
+}
+  
+main {
+    flex: 3;
+    padding: 1rem 3.5rem 1rem 3.5rem;
+}
+
+// @media only screen and (min-width: 800px) {
+//     main {
+//         padding: 1rem 10rem 1rem 10rem;
+//     }
+// }
+
+body, main {
+    overflow: auto;
+}
+
+.post-content{
+    margin: 1rem 2rem 1rem 2rem;
+}
