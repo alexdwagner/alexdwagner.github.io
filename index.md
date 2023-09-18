@@ -24,5 +24,5 @@ As a full-stack web developer, I have experience in JavaScript, Typescript, Reac
 
 ---
 
-*I am currently looking for fully-remote opportunities as a technical writer, UX writer, or full-stack web developer.*
+*I currently have bandwidth for new opportunities as a full-stack web developer. Give me a shout below via 'say hi to Alex'.*
  
