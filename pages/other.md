@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Art Work
-permalink: /art-work/
+permalink: /other/
 ---
 <!-- check art-work-old.md for a complete list of works to include here. just include your best stuff -->
 

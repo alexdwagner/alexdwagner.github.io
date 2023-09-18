@@ -4,13 +4,13 @@ title: Home
 permalink: /
 ---
 # Alex Wagner
-## Technical Writer and Full-Stack Web Developer
+## Full-Stack Web Developer
 
 **Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
 I'm currently working as a dev on various freelance and contract projects. 
 
-As a full-stack web developer, I have experience in JavaScript, Typescript, React, Node.js, Next.js, MySQL, Django, Solidity, Ruby on Rails, and p5.js.
+As a full-stack web developer, I have experience in JavaScript, Typescript, React, Node.js, Next.js, PostgreSQL, Solidity, Ruby on Rails, and p5.js.
 
 ---
 
