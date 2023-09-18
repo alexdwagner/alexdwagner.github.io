@@ -10,8 +10,6 @@ permalink: /
 
 I'm currently working as a dev on various freelance and contract projects. 
 
-For the past three years, I've been working in web3/crypto, mostly in product marketing, content, and technical writing roles. See my writing portfolio [here](/portfolio/).
-
 As a full-stack web developer, I have experience in JavaScript, Typescript, React, Node.js, Next.js, MySQL, Django, Solidity, Ruby on Rails, and p5.js.
 
 ---
