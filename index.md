@@ -24,5 +24,5 @@ As a full-stack web developer, I have experience in JavaScript, Typescript, Reac
 
 ---
 
-*I currently have bandwidth for new opportunities as a full-stack web developer. Give me a shout below via 'say hi to Alex'.*
+*I currently have bandwidth for new opportunities as a full-stack web developer. Give me a shout below via the 'say hi to Alex' link in the footer.*
  
