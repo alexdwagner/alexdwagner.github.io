@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Art Work
-permalink: /other/
+title: Links
+permalink: /links/
 ---
 <!-- check art-work-old.md for a complete list of works to include here. just include your best stuff -->
 
-# Art Work
+# Links
 
 ## SFPC Blog
 
