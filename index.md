@@ -6,9 +6,9 @@ permalink: /
 # Alex Wagner
 ## Technical Writer and Full-Stack Web Developer
 
-**Hi, I'm Alex. I'm a [technical content strategist](/portfolio/) and [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
+**Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
-I'm currently working as a technical writer at a small startup that's in stealth. 
+I'm currently working as a dev on various freelance and contract projects. 
 
 For the past three years, I've been working in web3/crypto, mostly in product marketing, content, and technical writing roles. See my writing portfolio [here](/portfolio/).
 
