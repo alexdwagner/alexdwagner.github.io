@@ -18,11 +18,11 @@ As a full-stack web developer, I have experience in JavaScript, Typescript, Reac
 
 * **[Art-archive](https://github.com/alexdwagner/art-archive):** A webapp that allows you to upload and store images of your artwork and research materials, and then view them in a gallery. Built with React, Typescript, Node.js, and Django. 
 
-* **[Things That Should Exist](https://thingsthatshouldexist.substack.com/):** A newsletter about belonging, collective power, and a sort-of journal for things I've been working on. *[Read it here.](https://thingsthatshouldexist.substack.com/archive)*
-
 * **[CodeFriends](https://github.com/alexdwagner/code-friends):** A mentorship platform for developers. CodeFriends allows you to connect with mentors and peers who can help you learn to code, as well as navigate the process of finding a job. Built with React, Next.js, TailwindCSS.
+
+* **[Things That Should Exist](https://thingsthatshouldexist.substack.com/):** A newsletter about belonging, collective power, and a sort-of journal for things I've been working on. *[Read it here.](https://thingsthatshouldexist.substack.com/archive)*
 
 ---
 
-*I currently have bandwidth for new opportunities as a full-stack web developer. Give me a shout below via the 'say hi to Alex' link in the footer.*
+*I currently have bandwidth for new opportunities. Give me a shout below via the 'say hi to Alex' link in the footer.*
  
