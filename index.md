@@ -8,7 +8,7 @@ permalink: /
 
 ## **Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
-As a full-stack web developer, I have experience in JavaScript, Typescript, React, Node.js, Next.js, PostgreSQL, Solidity, Ruby on Rails, and p5.js.
+I have experience building with JavaScript, Typescript, React, Next.js, Node/Express, Nest.js, PostgreSQL, and Solidity.
 
 ---
 
