@@ -3,10 +3,10 @@ layout: default
 title: Home
 permalink: /
 ---
-# Alex Wagner
-## Full-Stack Web Developer
+<!-- # Alex Wagner
+## Full-Stack Web Developer -->
 
-**Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
+## **Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
 As a full-stack web developer, I have experience in JavaScript, Typescript, React, Node.js, Next.js, PostgreSQL, Solidity, Ruby on Rails, and p5.js.
 
