@@ -6,7 +6,9 @@ permalink: /
 <!-- # Alex Wagner
 ## Full-Stack Web Developer -->
 
-## **Hi, I'm Alex. I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
+## **Hi, I'm Alex. 
+
+## I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
 I have experience building with JavaScript, Typescript, React, Next.js, Node/Express, Nest.js, PostgreSQL, and Solidity.
 
