@@ -24,5 +24,5 @@ I have experience building with JavaScript, Typescript, React, Next.js, Node/Exp
 
 ---
 
-*I currently have bandwidth for new opportunities. Give me a shout below via the 'say hi to Alex' link in the footer.*
+*I currently have bandwidth for new opportunities. Give me a shout below. I'd love to chat about how I can help you build something.*
  
