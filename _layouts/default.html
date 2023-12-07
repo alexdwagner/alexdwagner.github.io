@@ -1,26 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="{{ "/assets/site_images/favicon.ico" | relative_url }}">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-</head>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ "/assets/site_images/favicon.ico" | relative_url
+      }}">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
 
-<body>
+    <!-- Adding Inter font. -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+      rel="stylesheet">
+  </head>
 
-  {% include header.html %}
-  {% include nav.html %}
-  <main>
+  <body>
 
-    {{ content }}
+    {% include header.html %}
+    {% include nav.html %}
+    <main>
 
-  </main>
-  {% include footer.html %}
-  {% include social.html %}
+      {{ content }}
 
-</body>
+    </main>
+    {% include footer.html %}
+    {% include social.html %}
+
+  </body>
 
 </html>
