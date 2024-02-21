@@ -10,13 +10,17 @@ permalink: /
 
 ### **I'm a [full-stack web developer](https://github.com/alexdwagner) based in Brooklyn, New York.**
 
-I have experience building with JavaScript, Typescript, React, Next.js, Node/Express, Nest.js, PostgreSQL, and Solidity.
+I have experience building with HTML/CSS, JavaScript, Typescript, React, Next.js, Node/Express, PostgreSQL, MongoDB, Python, and P5.js.
 
 ---
 
-**Here's a couple of things that I'm ["building in public"](https://publiclab.co/building-in-public/what-is-it) right now:**
+**Here's what I'm ["building in public"](https://publiclab.co/building-in-public/what-is-it) right now:**
 
-* **SoundHaven:** A webapp that allows users to upload and store audio files, add markers and comments, and share them. Built with React, Next.js, Typescript, Nest.js, Prisma, and PostgreSQL. [Frontend](https://github.com/alexdwagner/soundhaven-frontend) | [Backend](https://github.com/alexdwagner/soundhaven-backend)
+* **SoundHaven:** Basically, "Figma for musicians". SoundHaven is an open source webapp that allows users to upload audio files, add markers and comments, and share files and playlists. Currently a work in progress. I am aiming to launch a working version in Spring 2024. 
+
+    Built with React, Next.js, Typescript, Nest.js, Prisma, and PostgreSQL.
+
+    [Frontend](https://github.com/alexdwagner/soundhaven-frontend) | [Backend](https://github.com/alexdwagner/soundhaven-backend)
 
 <!-- * **[CodeFriends](https://github.com/alexdwagner/code-friends):** A mentorship platform for developers. CodeFriends allows you to connect with mentors and peers who can help you learn to code, as well as navigate the process of finding a job. Built with React, Next.js, TailwindCSS.
 
