@@ -22,7 +22,7 @@ I have experience building with HTML/CSS, JavaScript, Typescript, React, Next.js
 
     [Frontend](https://github.com/alexdwagner/soundhaven-frontend) | [Backend](https://github.com/alexdwagner/soundhaven-backend)
 
-* **Context AI:** Context is an AI-driven "learning ecosystem" that teaches you [creative coding](https://p5js.org/). Context generates a personalized learning path to help you learn creative coding. There is a "office hours mode" where you can chat with a persona who converses with you based on your preferred learning style. There is also a "practice mode" that generates learning exercises that teach you core concepts in creative coding.
+* **Context AI:** Context is an AI-driven "learning ecosystem" that teaches you [creative coding](https://p5js.org/). Context generates a personalized learning path to help you learn creative coding. There is an "office hours mode" where you can chat with a persona who guides you based on your preferred learning style. There is also a "practice mode" that generates learning exercises that teach you core concepts in creative coding.
 
     Update: Context AI is live! [Check it out here.](https://context-learn.com/)
 
