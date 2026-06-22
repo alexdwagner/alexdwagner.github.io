@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 18 - Office Hours with Taeyoon"
 date:   2016-10-27 15:00:00 -0400
 categories: office hours, Taeyoon, reflection, learning, symbols, dogs, Bryan

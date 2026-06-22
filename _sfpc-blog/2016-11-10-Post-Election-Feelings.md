@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 32 - Back to School"
 date:   2016-11-08 20:00:00 -0400
 categories:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 64 - Monday, No School"
 date:   2016-12-12 20:00:00 -0400
 categories: Monday, self-care, Laundry

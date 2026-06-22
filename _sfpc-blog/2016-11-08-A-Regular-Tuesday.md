@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 30 - Housing Debacle, Eyebeam Internship... Election Night"
 date:   2016-11-08 20:00:00 -0400
 categories: election, eyebeam, pupusas, inez bakery, prospect park

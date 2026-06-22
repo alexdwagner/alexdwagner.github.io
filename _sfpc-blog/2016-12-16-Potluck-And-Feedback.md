@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 68 - Last Day: Potluck, Feedback, Farewell"
 date:   2016-12-16 20:00:00 -0400
 categories: Taeyoon, potluck, feedback session

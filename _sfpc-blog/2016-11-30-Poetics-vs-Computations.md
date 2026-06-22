@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 52 - Exhaustion, Poetics vs. Computation"
 date:   2016-11-30 20:00:00 -0400
 categories: caitlin morris, arduino, Wednesday, exhaustion, rant

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 15 - Ingrid's Walking Tour of NYC Telecommunications History"
 date:   2016-10-24 15:00:00 -0400
 categories: AHOC, ARCH, Ingrid Burrington, walking tour, lower manhattan, telecommunications, nyc history

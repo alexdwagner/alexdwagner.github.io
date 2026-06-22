@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 65 - Moving Day"
 date:   2016-12-13 20:00:00 -0400
 categories: moving, Tuesday, IKEA

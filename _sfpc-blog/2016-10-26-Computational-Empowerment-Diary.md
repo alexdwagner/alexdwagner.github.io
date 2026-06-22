@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 17 - Computational Empowerment Diary"
 date:   2016-10-26 15:00:00 -0400
 categories: walking, city, symbols, computational empowerment, phillip stearns, paper circuits, robby kraft, origami, patricio vivo gonzalez, shaders

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 47 - Back to NYC"
 date:   2016-11-23 20:00:00 -0400
 categories: Friday, train, NYC, family, Albany

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 38 - Arduino with Caitlin"
 date:   2016-11-16 20:00:00 -0400
 categories: Wednesday, arduino, Caitlin Morris, guac, Shantell Martin

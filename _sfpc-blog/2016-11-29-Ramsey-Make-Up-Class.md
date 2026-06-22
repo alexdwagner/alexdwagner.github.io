@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 51 - Radical Computer Science: Compilers, SFPC Salon"
 date:   2016-11-29 20:00:00 -0400
 categories: ramsey, radical computer science, class, make-up

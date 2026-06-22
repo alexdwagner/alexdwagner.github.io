@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 06 - Saturday, Bitforms Gallery, Open House New York"
 date:   2016-10-15 15:54:00 -0400
 categories: SFPC, Bitforms, Chelsea Open Studios, Zach Lieberman, Casey Reas, Margaret Atwood, Open House NYC, Ramsey Nasser, Bitforms Gallery, Saturday, Medhir, laser engraver, ITP

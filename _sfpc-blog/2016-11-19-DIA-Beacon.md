@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 41 - DIA Beacon"
 date:   2016-11-18 20:00:00 -0400
 categories: Saturday, DIA Beacon, fine art, museums

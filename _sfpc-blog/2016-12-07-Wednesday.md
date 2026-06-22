@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 59 - Wednesday"
 date:   2016-12-07 20:00:00 -0400
 categories: black mountain college, Wednesday, tired

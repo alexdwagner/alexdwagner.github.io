@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 14 - Two Weeks In"
 date:   2016-10-23 15:00:00 -0400
 categories: food, photos, photo essay

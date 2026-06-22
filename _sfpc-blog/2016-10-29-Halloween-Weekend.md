@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 20 - Halloweekend"
 date:   2016-10-29 15:00:00 -0400
 categories: halloween, library card, books, breakfast, records, confused travolta

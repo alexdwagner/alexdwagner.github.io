@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 56 - Back to NYC"
 date:   2016-12-04 20:00:00 -0400
 categories: back to NYC, hoboken, selfie, cemetery lunch, picnic

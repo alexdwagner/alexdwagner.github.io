@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 12 - Radical Computing with Ramsey Nasser"
 date:   2016-10-21 20:00:00 -0400
 categories: ramsey nasser, radical computing,

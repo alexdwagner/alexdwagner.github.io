@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 43 - What Are iPhones Made Of?"
 date:   2016-11-21 20:00:00 -0400
 categories: Monday, iphone, ifixit, mining industry, AHOC

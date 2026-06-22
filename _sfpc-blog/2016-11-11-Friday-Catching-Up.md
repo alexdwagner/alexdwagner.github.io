@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 33 - Friday, Catching Up"
 date:   2016-11-11 20:00:00 -0400
 categories: ramsey, radical computing

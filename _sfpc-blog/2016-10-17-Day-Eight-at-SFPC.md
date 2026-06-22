@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 08 - Taeyoon’s Class: Politics and Computation, Interning @ Eyebeam - “Stop Work!”"
 date:   2016-10-17 20:00:00 -0400
 categories: Taeyoon, politics and computation, eyebeam

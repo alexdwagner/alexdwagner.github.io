@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 22 - Politics and Computation: Class Two"
 date:   2016-10-31 15:00:00 -0400
 categories: Taeyoon, politics of computation, 24/7, Jonathan Crary, class audio

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 61 - Putting Up the Project"
 date:   2016-12-09 20:00:00 -0400
 categories: project, execution, stress, tired, wall, showcase, Ramsey Nasser, Friday

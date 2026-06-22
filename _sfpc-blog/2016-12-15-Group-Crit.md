@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 67 - Group Critique: The Showcase"
 date:   2016-12-15 20:00:00 -0400
 categories: group crit, showcase, maintenance, the space

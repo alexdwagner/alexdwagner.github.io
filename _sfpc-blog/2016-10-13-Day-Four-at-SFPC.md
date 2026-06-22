@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 04 - Architectural History of Computation - Class 0.5"
 date:   2016-10-13 14:16:00 -0400
 categories: SFPC, Ingrid Burrington, AHOC

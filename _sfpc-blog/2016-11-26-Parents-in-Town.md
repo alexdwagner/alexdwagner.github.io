@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 48 - Parents and the Met"
 date:   2016-11-26 20:00:00 -0400
 categories: parents, Met, art, sfpc, visiting

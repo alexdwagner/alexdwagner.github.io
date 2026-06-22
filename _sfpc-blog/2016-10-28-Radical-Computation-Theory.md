@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 19 - Class Two: Radical Computer Science"
 date:   2016-10-28 15:00:00 -0400
 categories: Ramsey, Radical Computing, Alan Turing, turing machine, puzzlescript, homework, OCR, thought puzzles

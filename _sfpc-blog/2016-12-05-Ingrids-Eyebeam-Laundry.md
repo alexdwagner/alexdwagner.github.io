@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 57 - Ingrid's Class, Eyebeam Internship"
 date:   2016-12-05 20:00:00 -0400
 categories: Ingrid Burrington, ARCH, Eyebeam, Internship

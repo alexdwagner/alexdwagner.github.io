@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 29 - Ingrid Out Sick, V V Tired"
 date:   2016-11-07 20:00:00 -0400
 categories: ingrid, sick, tired

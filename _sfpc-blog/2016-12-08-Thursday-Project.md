@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 60 - A Wild Project Appears"
 date:   2016-12-08 20:00:00 -0400
 categories: Taeyoon, coffee, final project, blog

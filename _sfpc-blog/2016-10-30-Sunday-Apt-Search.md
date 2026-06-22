@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 21 - Lazy Sunday, Apartment Search, Hangover"
 date:   2016-10-30 15:00:00 -0400
 categories: hana market, ridgewood, rain, bushwick, flea, reading, hangover

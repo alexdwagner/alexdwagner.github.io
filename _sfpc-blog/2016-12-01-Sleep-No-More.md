@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 53 - Eyebeam Internship, Sleep No More"
 date:   2016-12-01 20:00:00 -0400
 categories: Thursday, Sleep No More, Eyebeam, internship

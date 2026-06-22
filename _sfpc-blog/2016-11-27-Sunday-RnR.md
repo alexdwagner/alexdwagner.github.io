@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 49 - Sunday RnR"
 date:   2016-11-27 20:00:00 -0400
 categories: frankel's, self-care, good food, ramen

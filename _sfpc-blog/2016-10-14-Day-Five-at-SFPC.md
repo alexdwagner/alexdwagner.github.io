@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 05 - Open Frameworks Workshop, Troubleshooting git"
 date:   2016-10-14 14:16:00 -0400
 categories: SFPC, Robby Kraft, Open Frameworks, git, Hiro Nakamura, project idea, command line, rotate image, EXIF

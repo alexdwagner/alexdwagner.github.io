@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 09 - Off-Day: Blogs, Homework, Other Things"
 date:   2016-10-18 20:00:00 -0400
 categories: blog, homework, meet the students, jekyll

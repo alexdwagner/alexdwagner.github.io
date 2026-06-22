@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 46 - Thanksgiving in Albany"
 date:   2016-11-23 20:00:00 -0400
 categories: Wednesday, Albany, Thanksgiving

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 13 - Two New Yorks"
 date:   2016-10-22 15:00:00 -0400
 categories: rain, rainy, reading, projects, whole foods

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 34 - A Swale Saturday"
 date:   2016-11-12 20:00:00 -0400
 categories: swale, amelia marzec, airbnb

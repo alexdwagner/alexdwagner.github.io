@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 55 - Minnewaska and Guitar"
 date:   2016-12-03 20:00:00 -0400
 categories: poughkeepsie, Minnewaska, guitar, Japanese food, Didi

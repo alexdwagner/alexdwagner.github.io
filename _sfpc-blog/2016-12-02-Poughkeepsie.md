@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 54 - Poughkeepsie"
 date:   2016-12-02 20:00:00 -0400
 categories: Friday, Ramsey Nasser, Radical Computation,

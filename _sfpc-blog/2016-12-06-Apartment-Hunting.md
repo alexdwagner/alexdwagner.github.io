@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 58 - Apartment Hunting"
 date:   2016-12-06 20:00:00 -0400
 categories: apartment hunt, bushwick, red hook, eyebeam

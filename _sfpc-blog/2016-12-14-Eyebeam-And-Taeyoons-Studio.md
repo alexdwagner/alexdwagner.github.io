@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 66 - Eyebeam and Taeyoon's Studio"
 date:   2016-12-09 20:00:00 -0400
 categories: Eyebeam, Taeyoon, studio, workshop

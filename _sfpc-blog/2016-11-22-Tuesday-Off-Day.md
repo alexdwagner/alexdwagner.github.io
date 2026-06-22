@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 44 - Freelance Blues"
 date:   2016-11-22 20:00:00 -0400
 categories: Tuesday

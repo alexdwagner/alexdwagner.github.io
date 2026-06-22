@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 50 - Taeyoon's Class, Exhaustion"
 date:   2016-11-28 20:00:00 -0400
 categories: Taeyoon, class, freelance, exhaustion

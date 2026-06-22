@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 35 - Lazy Sunday"
 date:   2016-11-13 20:00:00 -0400
 categories: sunday, lazy, roommate hangs

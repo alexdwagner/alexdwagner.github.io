@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 23 - Taeyoon Cooks, Zach Talks"
 date:   2016-11-01 15:00:00 -0400
 categories: Taeyoon, cooking, Zach, homework, dog

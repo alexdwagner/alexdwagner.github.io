@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: sfpc-post
 title:  "SFPC: Day 10 - Physical Computing with Phillip David Stearns"
 date:   2016-10-19 20:00:00 -0400
 categories: phillip david stearns, physical computing, itp open house, the pier, warm day, rice cooker
