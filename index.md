@@ -19,7 +19,7 @@ I used to work in tech marketing. Now I fix sinks and install ceiling fans.
 
 * **[Things That Should Exist](https://thingsthatshouldexist.substack.com/):** A newsletter about belonging, collective power, and a sort-of journal for things I've been working on. *[Read it here.](https://thingsthatshouldexist.substack.com/archive)* -->
 
-* **[SFPC Blog](https://alexwagner.xyz/sfpc-blog-index/):** My blog from when I attended School for Poetic Computation in 2016, complete with recorded lectures, and lots of pictures.**
+* **[SFPC Blog](https://alexwagner.xyz/sfpc-blog-index/):** My blog from when I attended School for Poetic Computation in 2016, complete with recorded lectures, and lots of pictures.
 
 * **[Music that I've made](https://alextimer.bandcamp.com/):
 ** Just another guy's folk and rock-flavored bandcamp page.
