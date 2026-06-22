@@ -9,11 +9,11 @@ Sweet, merciful off-day. How sweet the sound. Still working, but no class. Time 
 
 Maybe even dig into a little bit of coding.
 
-![An image](/assets/sfpc-images/IMG_4444.JPG)
+![An image](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4444.JPG)
 
 Look at the little doggy on the back of the bike!
 
-![An image](/assets/sfpc-images/IMG_4441.JPG)
+![An image](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4441.JPG)
 
 Generating a lot of content here for the ol' bloggy blog. Time to ever-so-incrementally improve my Jekyll/web dev skills. I think I will format by week.
 

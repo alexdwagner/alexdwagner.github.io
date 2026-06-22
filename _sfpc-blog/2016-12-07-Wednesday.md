@@ -7,7 +7,7 @@ categories: black mountain college, Wednesday, tired
 
 Worked on connecting Processing and Open Frameworks in Caitlin's class today.
 
-![Caitlin whiteboard](/assets/sfpc-images/IMG_6814.JPG)
+![Caitlin whiteboard](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6814.JPG)
 
 -----
 

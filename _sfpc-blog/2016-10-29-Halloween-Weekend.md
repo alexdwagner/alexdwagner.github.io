@@ -7,25 +7,25 @@ categories: halloween, library card, books, breakfast, records, confused travolt
 
 Saturday, a time to relax and see the city. A time for breakfast. A time for library cards.
 
-![Life in it's poetic form sign](/assets/sfpc-images/IMG_5132.jpg)
+![Life in it's poetic form sign](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5132.jpg)
 
 <h2>Breakfast</h2>
 
 Woke up in the morn at about 8:30am.  Caity and I got up and at 'em and got to the incredible Toms Diner in Clinton Hill, right at about 10am, just early enough to beat a long line that formed behind us. The pancakes were perfect.
 
-![coffee gif](/assets/sfpc-images/IMG_5134_coffee.gif)
+![coffee gif](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5134_coffee.gif)
 
 <h2>Books</h2>
 
 As we walked south towards prospect park, we stopped at a sidewalk bookseller. We talked about 60's rock and roll. Apparently, Jeff, the guy selling the books, used to be a rock journalist and once worked for Bill Graham at the Fillmore East when Jeff was 19. We chatted with him for 5 or 10 minutes. He said that he'd put his three sons through Ivy League schools by selling books on the street. Jeff sold me a copy of Rilke's Stories of God, and we said our goodbyes and then walked to Prospect Park.
 
-![Books](/assets/sfpc-images/IMG_5135.jpg)
+![Books](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5135.jpg)
 
 <h2>The Brooklyn Public Library - Central Branch</h2>
 
 We stopped into the Brooklyn central library and I applied for a library card.
 
-![BPL Central Branch](/assets/sfpc-images/IMG_5136.jpg)
+![BPL Central Branch](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5136.jpg)
 
 Alas, I wasn't able to get it because I didn't have any mail from my current NYC address. Out-of-towners can get a card at the Brooklyn Public Library, for a $50 fee! I messaged our slack channel to see if anyone was at sfpc. My parents had shipped me a box of hard drives, and all I needed was a picture of it to secure my precioussssss library card.
 
@@ -35,7 +35,7 @@ Cider in hand we entered Prospect Park from its North side.
 
 <h2>Prospect Park</h2>
 
-![Prospect Park](/assets/sfpc-images/IMG_5161.jpg)
+![Prospect Park](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5161.jpg)
 
 Pretty nice day, a bit chilly. Lots of people out. Little kids in costumes and sometimes parents to match.
 
@@ -53,11 +53,11 @@ When I came back outside, Caity was sitting on a concrete bench along the steps,
 
 *More pictures of the front of the library - what do all of these symbols mean?*
 
-![BPL facade](/assets/sfpc-images/IMG_5143.jpg)
+![BPL facade](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5143.jpg)
 
-![BPL facade](/assets/sfpc-images/IMG_5156.jpg)
+![BPL facade](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5156.jpg)
 
-![BPL facade](/assets/sfpc-images/IMG_5167.jpg)
+![BPL facade](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5167.jpg)
 
 <h2>Record Store</h2>
 
@@ -73,9 +73,9 @@ We made it back to Caity's place, relaxed, and had a lunch of leftovers.
 
 I made it back to my neighborhood and got a veggie burger to go from a local place. I'm writing this at 6pm from my Airbnb's couch in Bed Stuy, 2.5 hours before I'm meeting a friend to go to a Halloween party. I'm going to be Vincent Vega from Pulp Fiction.
 
-![Confused Travolta gif](/assets/sfpc-images/confusedTravolta.jpg)
+![Confused Travolta gif](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/confusedTravolta.jpg)
 
-![Travolta me](/assets/sfpc-images/IMG_5196.jpg)
+![Travolta me](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5196.jpg)
 
 It's so nice to spend a whole day not worrying about school stuff. I'm going to do the reading for Taeyoon's class tomorrow while I'm riding to an open house for a cheap room that I'm looking to rent in Ridgewood. Seems like a neat group who lives there: an artist, a feminist comic, and an experimental musician. I look forward to meeting them.
 

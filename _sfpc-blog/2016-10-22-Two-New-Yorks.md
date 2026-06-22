@@ -7,7 +7,7 @@ categories: rain, rainy, reading, projects, whole foods
 
 Rainy and cold today. Got some good reading and project managing done today. Productive day today.
 
-![Stationery store](/assets/sfpc-images/IMG_4597.JPG)
+![Stationery store](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4597.JPG)
 
 Still thinking about Ramsey's class today. I've decided to really attack my ignorance when it comes to the concepts of computing. My weapons are reading and practice. I will emerge victorious or die trying. Maybe there is a Valhalla for would-be programmers, but I wouldn't bet on it.
 
@@ -25,23 +25,23 @@ I do plan to go back to Dallas, TX for Christmas, but after that plan to come ba
 
 - Breakfast at the Whole Foods on Houston. Read some of: *Digital Harmony*, by John Whitney; *Uncreative Writing*, by Kenneth Goldsmith, *97 Things Every Programmer Should Know*, edited by Kevlin Henney.
 
-![Digital Harmony](/assets/sfpc-images/IMG_4591.JPG)
+![Digital Harmony](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4591.JPG)
 
 *From Uncreative Writing:*
-![Sol Lewitt Quote](/assets/sfpc-images/SolLewittQuote.jpg)
+![Sol Lewitt Quote](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/SolLewittQuote.jpg)
 
 - Bought a new notebook at the stationery store on W. 3rd St. by NYU. Love that place.
-![Stationery store](/assets/sfpc-images/IMG_4593.JPG)
+![Stationery store](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4593.JPG)
 
 - Walked through Washington Square Park(abbreviated as WSP).
 
-![WSP from the gate](/assets/sfpc-images/IMG_4617.JPG)
+![WSP from the gate](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4617.JPG)
 
 - At WSP, happened upon a hut. Alone in the hut was a young man about my age named Shmuel. He was from Montreal and we talked about hockey and weather. The hut was apparently put there for [Sukkot](https://en.wikipedia.org/wiki/Sukkot), which is apparently one of the most important Jewish holidays of the year. He invited me to an Orthodox Judaism party on 770 Eastern Parkway. Another young Jewish guy from Colorado happened upon the hut while we were talking and both of them talked about this Orthodox Sukkot party - which happens for 6 hours a day Saturday through Monday - and agreed that it would be a rowdy and memorable introduction to Jewish holiday customs.
 
 You can actually see the hut if you look closely at the image below. It's the small leafy building to the right of the group of people in front of the fountain.
 
-![Tiny Sukkot house](/assets/sfpc-images/IMG_4629.JPG)
+![Tiny Sukkot house](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4629.JPG)
 
 - And then I bought a sweet blue and white flannel shirt at the Goodwill on W. 8th.
 - Made it back to SFPC and now I'm writing this blog post. It's 3pm.
@@ -60,8 +60,8 @@ The rest of the day I plan to start a project study(got my Trello up and working
 
 *"an abstract and conceptual map of New York City"*
 
-![Conceptual Map of NYC](/assets/sfpc-images/IMG_4611.JPG)
+![Conceptual Map of NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4611.JPG)
 
 *"One of Stephen's Drawings"*
 
-![Conceptual Map of NYC](/assets/sfpc-images/IMG_4586.JPG)
+![Conceptual Map of NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4586.JPG)

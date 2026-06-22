@@ -7,7 +7,7 @@ categories: Wednesday, arduino, Caitlin Morris, guac, Shantell Martin
 
 Arduino class with Caitlin Morris today. Ruby, Bryan, and I made some p decent guac. Hung out with Shantell Martin. Did client work. Good day.
 
-![arduino](/assets/sfpc-images/IMG_5718.JPG)  
+![arduino](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5718.JPG)  
 
 -----
 
@@ -15,7 +15,7 @@ Arduino class with Caitlin Morris today. Ruby, Bryan, and I made some p decent g
 
 *A tree grows in Brooklyn*
 
-![bk tree](/assets/sfpc-images/IMG_5717.JPG)  
+![bk tree](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5717.JPG)  
 
 -----
 
@@ -66,9 +66,9 @@ We also talked about places to buy cheap parts. never heard of [mouser](http://w
 
 After class we made guac. It was real, real good. [Jack White's recipe](http://www.npr.org/sections/thesalt/2015/02/15/386409331/for-musician-jack-white-any-old-guacamole-just-wont-do). Would like to make it a weekly thing, this making of guac. Even tho we only have 4 more weeks of school left :(
 
-![guac](/assets/sfpc-images/IMG_5720.JPG)
-![guac](/assets/sfpc-images/IMG_5721.JPG)
-![guac](/assets/sfpc-images/IMG_5722.JPG)
+![guac](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5720.JPG)
+![guac](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5721.JPG)
+![guac](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5722.JPG)
 
 Then we hung out in the kitchen with visiting artist Shantell Martin. Check out her work here:
 

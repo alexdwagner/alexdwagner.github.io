@@ -13,15 +13,15 @@ We were going to have our third installment of Ingrid's [Architectural History o
 
 *Photo Dogs on 6th Avenue*
 
-![screenCap](/assets/sfpc-images/IMG_5458.jpg)
+![screenCap](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5458.jpg)
 
 *NYC Trash Lines Study #2*
 
-![screenCap](/assets/sfpc-images/IMG_5463.jpg)
+![screenCap](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5463.jpg)
 
 *A decommissioned army jeep outside the Westbeth*
 
-![screenCap](/assets/sfpc-images/IMG_5465.jpg)
+![screenCap](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5465.jpg)
 
 <h2>Today, In Text</h2>
 
@@ -43,7 +43,7 @@ Maybe I will bring this up during the mid-point review.
 
 Pancakes, eggs, and sausage at the Bus Stop Cafe. Treated myself to breakfast after volunteering Friday, Saturday, and Sunday.
 
-![screenCap](/assets/sfpc-images/IMG_5464.jpg)
+![screenCap](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5464.jpg)
 
 **For Dinner:**
 

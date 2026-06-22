@@ -7,7 +7,7 @@ categories: Tuesday
 
 Tuesday. A day to catch up on work stuff. My sister and her boyfriend visited the space. Getting ready to go upstate to visit family for Thanksgiving. Should be real nice.
 
-![iphones](/assets/sfpc-images/IMG_6079.jpg)
+![iphones](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6079.jpg)
 
 -----
 

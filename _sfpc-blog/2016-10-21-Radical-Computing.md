@@ -11,12 +11,12 @@ Ramsey Nasser's Radical Computing class was today. It was fantastic.
 <<<<<<< HEAD
 <h2> </h2>
 
-![](/assets/sfpc-images/IMG_xxxx.JPG)
+![](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_xxxx.JPG)
 =======
 
 Brooklyn this morning:
 
-![Brooklyn lions in the rain](/assets/sfpc-images/IMG_4562.JPG)
+![Brooklyn lions in the rain](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4562.JPG)
 
 Maybe the second or third day it's rained since I've been here. A lot of my classmates got a little wet.
 
@@ -33,7 +33,7 @@ First of all, Ramsey used an "infinite whiteboard" app of his own creation, that
 
 Here's the class watching most of [John Cage performing his piece, "4'33" "](https://www.youtube.com/watch?v=gN2zcLBr_VM). It's related because we discussed computation from the perspective of rule-based art. Fluxus, John Cage, On Kawara were all mentioned.
 
-![Watching John Cage perform 4'33"](/assets/sfpc-images/IMG_4563.JPG)
+![Watching John Cage perform 4'33"](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4563.JPG)
 
 And then we watched the death metal version.
 
@@ -52,7 +52,7 @@ Ramsey's lecture contained lots so of good conceptual concepts about computers. 
 5. For 15 minutes, the programmer will give drawing instructions to the computer. The programmer is allowed to "finish" the drawing to have a look. If so, a new drawing must be started by the computer and programmer.
 6. After 15 minutes, the class shares their drawings.
 
-![Computer/Programmer](/assets/sfpc-images/IMG_4566.gif)
+![Computer/Programmer](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4566.gif)
 
 The first thought I had when hearing the exercise desribed was, "I wonder if computer/programmer role-playing is like a hyper-niche in the fetish community?".
 
@@ -67,7 +67,7 @@ Thanks to Medhir and Ruby, who put on an informal github workshop an hour after 
 It's about 5pm as I write this. Some students are going to the free night at MoMa(every Friday from 4p-8p). The sun has come out and it's turned into a really pretty day. May go for a walk soon.
 
 Golden Hour at Westbeth:
-![Golden Hour at Westbeth](/assets/sfpc-images/IMG_4580.JPG)
+![Golden Hour at Westbeth](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4580.JPG)
 
 I think I'll probably just stay here and work - that's what I'd prefer to do. Maybe get some ramen later.
 

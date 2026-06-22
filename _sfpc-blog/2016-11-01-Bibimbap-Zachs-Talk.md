@@ -7,7 +7,7 @@ categories: Taeyoon, cooking, Zach, homework, dog
 
 Taeyoon cooked lunch. Zach gave a talk. My classmate Bryan brought his small dog, Stella, the Space Chicken.
 
-![Taeyoon cooking](/assets/sfpc-images/IMG_5273.jpg)
+![Taeyoon cooking](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5273.jpg)
 
 -----
 
@@ -15,15 +15,15 @@ Taeyoon cooked lunch. Zach gave a talk. My classmate Bryan brought his small dog
 
 We have a pine tree outside our Airbnb.
 
-![Pine tree](/assets/sfpc-images/IMG_5248.jpg)
+![Pine tree](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5248.jpg)
 
 Nagle's Bagels. $5 Hot Chocolate and you're prescriptively encouraged to tip(if you want). See ["trojan horse business"](https://www.facebook.com/decolonizethisplace/photos/gm.1226507764086142/218347115252933/?type=3&theater).
 
-![Nagel's Bagles](/assets/sfpc-images/IMG_5254.jpg)
+![Nagel's Bagles](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5254.jpg)
 
 Annnnnd coming up from the train.
 
-![Train steps](/assets/sfpc-images/IMG_5258.jpg)
+![Train steps](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5258.jpg)
 
 I got to school at about 10:15 or 10:30. Katrina was there, with a few other people. Soon after I got there, Bryan arrived with his small dog, Stella(aka space chicken). Stella dog is really funny, much excite. If you pet her once, she assumes a still 'pet me' position(seated with her head facing down) and remains like that until the petting has reached completion. I liked her right away.
 
@@ -39,25 +39,25 @@ Here's my to-do list for the day:
 
 Here is a picture of Stella, aka "Space Chicken" who was trotting around spreading mirth and whatnot.
 
-![Stella](/assets/sfpc-images/IMG_5286.jpg)
+![Stella](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5286.jpg)
 
 About 10 minutes later, Taeyoon asked me to go to the store and grab some eggs more rice and some sesame oil. I was happy to oblige. It took me maybe 20 minutes to walk to to the cheaper grocery store, find the required items, buy them, and report back.
 
 Taeyoon had lot of things to cook: mushrooms, spinach, tofu, and vegetables of different types and kinds. Pretty soon I found myself helping locate and wash additional dishes, serving rice so that Taeyoon could plate food, dancing around Dannie and Ruby in the tiny kitchen, who were both performing in similar capacities.
 
-![Cooking](/assets/sfpc-images/IMG_5266.jpg)
+![Cooking](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5266.jpg)
 
-![Finished plate](/assets/sfpc-images/IMG_5267.jpg)
+![Finished plate](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5267.jpg)
 
 Soon after there were 14 of us seated around our classroom table, chatting and eating and asking for more red pepper paste(it was good! just spicy enough). Ruby was kind enough to share some of her green curry chicken with me as well.
 
 It was a great meal and I hope we get to cook and eat together again soon.
 
-![Finished plate](/assets/sfpc-images/IMG_5271.jpg)
+![Finished plate](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5271.jpg)
 
 <h2>Zach's Talk</h2>
 
-![Zach talk pano](/assets/sfpc-images/IMG_5277.jpg)
+![Zach talk pano](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5277.jpg)
 
 Zach's talk started soon thereafter. He went through some of his older projects, and allowed us to live vicariously through his recent travels to Prague, London, and Japan.
 
@@ -77,7 +77,7 @@ Such a great marriage of interactivity, performance, and text. I especially enjo
 
 A really interesting project using retroreflective spray paint and thresholding functions to unique effect.
 
-![Above you](/assets/sfpc-images/IMG_5274.jpg)
+![Above you](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5274.jpg)
 
 I was really impressed with how thoroughly Zach documents his work. He had so many photos! Lots of cool stuff to show us. He hadn't even had time to edit them yet.
 
@@ -85,13 +85,13 @@ And them I had to leave at 2:30 to get to my internship at Eyebeam.
 
 *A view while leaving Westbeth*
 
-![Westbeth at 2:30](/assets/sfpc-images/IMG_5278.jpg)
+![Westbeth at 2:30](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5278.jpg)
 
 <h2>Eyebeam Internship</h2>
 
 I was surprised at how fast the D train from West 4th got me there.
 
-![Take it to the bridge](/assets/sfpc-images/IMG_5281.gif)
+![Take it to the bridge](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5281.gif)
 
 At a corner store, I ordered what was to be a delicious chicken cutlet sandwich.
 
@@ -99,7 +99,7 @@ While there, David, my boss, and the Director of Communications, gave me my inte
 
 <h2>Back to SFPC</h2>
 
-![Cooking](/assets/sfpc-images/IMG_5282.jpg)
+![Cooking](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5282.jpg)
 
 Took the D train north again. Walked to SFPC feeling beat, lugging my camera bag and backpack both.
 
@@ -109,7 +109,7 @@ Made some ramen with an egg in a microwave. Slowly, but slowly, got my electroni
 
 Bryan's dog, Stella, provided what moral support that she could.
 
-![Stella](/assets/sfpc-images/IMG_5292.gif)
+![Stella](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5292.gif)
 
 By about 1030, I'd only done about 2/3rds of it, but I was done, exhausted, dead. Agustin, Baku, and I shut the place down in the usual way: took out the trash, washed the leftover dishes, turned out the lights, and locked up.
 

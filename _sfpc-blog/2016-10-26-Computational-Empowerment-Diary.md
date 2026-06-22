@@ -25,17 +25,17 @@ I am honored and so glad - the post took me three hours to write and to edit the
 
 <h2>Phillip Stearns' Physical Computing Class</h2>
 
-![magnifying glass](/assets/sfpc-images/IMG_4992.jpg)
+![magnifying glass](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4992.jpg)
 
 Was fun! We continued to learn about the basics of electronics and electronics components.
 
 And then we made paper circuits!!
 
-![class working gif](/assets/sfpc-images/IMG_4999.gif)
+![class working gif](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4999.gif)
 
 Our happy power strip man, resting after providing power all class.
 
-![our happy power strip man](/assets/sfpc-images/IMG_5003.jpg)
+![our happy power strip man](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5003.jpg)
 
 -----
 
@@ -47,7 +47,7 @@ However, you should check out his Instagram. His work is really good!
 
 [@gridpaper](https://www.instagram.com/gridpaper/)
 
-![origami](/assets/sfpc-images/IMG_5007.jpg)
+![origami](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5007.jpg)
 
 -----
 
@@ -57,11 +57,11 @@ We made lunch together - a rice stir-fry. It was good and spicy.
 
 *Credit: Hiroshi(classmate)*.
 
-![cooking](/assets/sfpc-images/102616cooking.jpg)
+![cooking](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/102616cooking.jpg)
 
 And then Jason, classmate, applied a deep learning style to it:
 
-![cooking with deep learning](/assets/sfpc-images/102616cooking_DL.jpg)
+![cooking with deep learning](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/102616cooking_DL.jpg)
 
 -----
 
@@ -69,13 +69,13 @@ And then Jason, classmate, applied a deep learning style to it:
 
 *At the beginning of the workshop.*
 
-![pano of shaders workshop](/assets/sfpc-images/IMG_5024.jpg)
+![pano of shaders workshop](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5024.jpg)
 
 I haven't really coded at all in C, so this workshop was challenging, but a lot of fun.
 
 **My takeaway:** the secret to life is normalizing from 0 to 1. And sine waves.
 
-![class working gif](/assets/sfpc-images/IMG_5026.gif)
+![class working gif](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5026.gif)
 
 Our homework was to create our own skies, our own sunsets, using code.
 

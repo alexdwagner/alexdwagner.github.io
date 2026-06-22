@@ -13,15 +13,15 @@ Lazy day today. Woke up late, got breakfast with a friend, hung out with roommat
 
 *A face on the sidewalk outside the AirBnb*
 
-![Sidewalk face](/assets/sfpc-images/IMG_5619.jpg)
+![Sidewalk face](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5619.jpg)
 
-![Sidewalk face](/assets/sfpc-images/IMG_5620.jpg)
+![Sidewalk face](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5620.jpg)
 
 At around noon, hung out with the roommates and talked about the state of politics, Trump, gentrification. Is this what it feels like to be a revolutionary?
 
 *A flyer from the Chinatown Arts Brigade's recent event about gentrification*
 
-![Swale](/assets/sfpc-images/IMG_5621.jpg)
+![Swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5621.jpg)
 
 Made dinner, watched a movie, went to bed at a reasonable hour.
 

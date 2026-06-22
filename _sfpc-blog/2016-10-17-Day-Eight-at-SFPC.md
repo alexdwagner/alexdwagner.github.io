@@ -7,16 +7,16 @@ categories: Taeyoon, politics and computation, eyebeam
 
 Today marks the start of a new week. Taeyoon taught the first session of his "Politics of Computation" class. It's a critical theory class concerning the biases and culture of computation.
 
-![Taeyoon board](/assets/sfpc-images/IMG_4409.JPG)
+![Taeyoon board](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4409.JPG)
 
 *Today was a day*. Woke up in Clinton Hill, took the train to Ditmas Park to grab my things, then took an express bus and then another train to SFPC carrying maybe 25lbs of my belongings.
 
 One highlight of my epic trek to South Brooklyn and back was the mosaic art at the Christopher St. station of the 1 train.
 
-![Christopher St. Mosaic](/assets/sfpc-images/IMG_4401.JPG)
-![Christopher St. Mosaic](/assets/sfpc-images/IMG_4393.JPG)
-![Christopher St. Mosaic](/assets/sfpc-images/IMG_4389.JPG)
-![Christopher St. Mosaic](/assets/sfpc-images/IMG_4397.JPG)
+![Christopher St. Mosaic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4401.JPG)
+![Christopher St. Mosaic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4393.JPG)
+![Christopher St. Mosaic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4389.JPG)
+![Christopher St. Mosaic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4397.JPG)
 
 After traveling maybe 10 miles by train, bus, and foot, I made it to SFPC at 10am precisely, which is when class starts.
 
@@ -34,7 +34,7 @@ We talked about [von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann), t
 
 We also taked about abstraction and repetition in computing.
 
-![Taeyoon slide - "abstraction and repetition in computing"](/assets/sfpc-images/levelsOfAb.jpg)
+![Taeyoon slide - "abstraction and repetition in computing"](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/levelsOfAb.jpg)
 
 -----
 
@@ -44,7 +44,7 @@ It was fun. I really like the people that I'm working with, and I enjoy being at
 
 Here's a picture from the event. I also recorded audio of the three presentations, for which I will add a dropbox link soon.
 
-![Eyebeam Stop Work! wide shot](/assets/sfpc-images/IMG_4419.JPG)
+![Eyebeam Stop Work! wide shot](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4419.JPG)
 
 -----
 

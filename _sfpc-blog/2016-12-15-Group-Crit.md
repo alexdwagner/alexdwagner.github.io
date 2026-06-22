@@ -15,29 +15,29 @@ Mostly pictures today. This is a catching-up post. I'll tell the story with imag
 
 *Morning*
 
-![Benys Deli](/assets/sfpc-images/IMG_7077.JPG)
+![Benys Deli](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7077.JPG)
 
 *Wet paint*
 
-![Wet Paint](/assets/sfpc-images/IMG_7081.JPG)
+![Wet Paint](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7081.JPG)
 
 *Freezing cold today, around 20 degrees fahrenheit.*
 
-![Freeze](/assets/sfpc-images/IMG_7088.JPG)
+![Freeze](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7088.JPG)
 
-![Freeze](/assets/sfpc-images/IMG_7092.JPG)
+![Freeze](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7092.JPG)
 
 <h2>Project Feedback</h2>
 
 *Class getting ready for feedback. Projector Problems: The Struggle Continues*
 
-![Freeze](/assets/sfpc-images/IMG_7097.JPG)
+![Freeze](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7097.JPG)
 
 *Images courtesy of Filip Wolak*
 
-![Workshop](/assets/sfpc-images/FilipWolak_SFPC_0242_51670.jpg)
+![Workshop](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/FilipWolak_SFPC_0242_51670.jpg)
 
-![Workshop](/assets/sfpc-images/FilipWolak_SFPC_0240_51668.jpg)
+![Workshop](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/FilipWolak_SFPC_0240_51668.jpg)
 
 I went second, after Adnan. We were allowed three minutes to talk about our project and our experience at the showcase. After that, we received feedback. Here's some of the suggestions I received. Forgive, the formatting - I copy/pasted from my notes.
 
@@ -88,23 +88,23 @@ The feedback I received was almost all positive. I was told that my project play
 
 We were going to grab a group picture at Eyebeam on Wednesday but not everyone was there, so we made one today. I designated myself as class photog. Pretty happy with the results.
 
-![Class pic](/assets/sfpc-images/IMG_7100.JPG)
+![Class pic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7100.JPG)
 
-![Class pic](/assets/sfpc-images/IMG_7102.JPG)
+![Class pic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7102.JPG)
 
-![Class pic](/assets/sfpc-images/IMG_7103.JPG)
+![Class pic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7103.JPG)
 
-![Class pic](/assets/sfpc-images/IMG_7104.JPG)
+![Class pic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7104.JPG)
 
-![Class pic](/assets/sfpc-images/snowClass.jpg)
+![Class pic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/snowClass.jpg)
 
 <h2>Red Hook Sunset</h2>
 
-![Red Hook Sunset](/assets/sfpc-images/IMG_7118.JPG)
+![Red Hook Sunset](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7118.JPG)
 
 *Aaaaand back to IKEA*
 
-![Gotland](/assets/sfpc-images/IMG_7145.JPG)
+![Gotland](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_7145.JPG)
 
 -----
 

@@ -7,7 +7,7 @@ categories: swale, amelia marzec, airbnb
 
 Today I ventured into Dumbo to see Eyebeam Resident [Amelia Marzec](http://www.ameliamarzec.com/) perform a pirate radio installation on [Mary Mattingly's](http://www.marymattingly.com/) Swale project, [which is a seafaring art installation that grows food](http://www.swaleny.org/).
 
-![Pano swale](/assets/sfpc-images/IMG_5614.jpg)  
+![Pano swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5614.jpg)  
 
 -----
 
@@ -29,15 +29,15 @@ And that all changed when I got to [Swale](http://www.swaleny.org/).
 
 First, I'll show you pictures.
 
-![Swale](/assets/sfpc-images/IMG_5593.jpg)
+![Swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5593.jpg)
 
-![Swale](/assets/sfpc-images/IMG_5600.jpg)
+![Swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5600.jpg)
 
 *Mary Mattingly, Amelia Marzec, and Robby Mayson*
 
-![Swale](/assets/sfpc-images/IMG_5607.JPG)
+![Swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5607.JPG)
 
-![Swale](/assets/sfpc-images/IMG_5585.jpg)
+![Swale](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5585.jpg)
 
 When I arrived, there weren't too many folks there. Just me, Amelia, her co-performer Rob, Mary Mattingly, and a woman picking edible plant things with her kid.
 
@@ -69,7 +69,7 @@ So everything has come full circle in the span of a year. Which is good because 
 
 Pizzaaaa! At this place.
 
-![Pizza place](/assets/sfpc-images/IMG_5615.jpg)
+![Pizza place](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5615.jpg)
 
 **For Dinner:**
 
