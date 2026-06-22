@@ -8,7 +8,7 @@ permalink: /
 
 ## **Hi, I'm Alex.** 
 
-### **I'm a an artist and handyman, living in Western Massachusetts.**
+### **I'm an artist and handyman, living in Western Massachusetts.**
 
 I used to work in tech marketing. Now I fix sinks and install ceiling fans.
 
