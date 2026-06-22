@@ -21,9 +21,10 @@ I used to work in tech marketing. Now I fix sinks and install ceiling fans.
 
 * **[SFPC Blog](https://alexwagner.xyz/sfpc-blog-index/):** My blog from when I attended School for Poetic Computation in 2016, complete with recorded lectures, and lots of pictures.**
 
-* **[Music that I've made](https://alextimer.bandcamp.com/): ** Just another guy's folk and rock-flavored bandcamp page.**
+* **[Music that I've made](https://alextimer.bandcamp.com/):
+** Just another guy's folk and rock-flavored bandcamp page.
 
-* **[Video work](https://vimeo.com/adwagner): ** In my 20's I worked as a video cameraman and editor. I also wrote and produced some of my own stuff. Vimeo page here.**
+* **[Video work](https://vimeo.com/adwagner):** In my 20's I worked as a video cameraman and editor. I also wrote and produced some of my own stuff. Vimeo page here.
 ---
 
  
