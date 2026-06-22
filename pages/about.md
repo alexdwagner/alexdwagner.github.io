@@ -7,18 +7,31 @@ permalink: /about/
 
 ![Alex's headshot](/assets/site_images/alex-headshot-2023.jpeg)
 
-<p style="text-align:center;font-size: 0.8em;"><em>Recent image of my face.</em></p>
+*Recent image of my face.*
 
-**About me, in three bullet points:**
+Hi, I'm Alex.
 
-* **I'm a full-stack web developer based in , Brooklyn, New York.** I specialize in building responsive websites with JavaScript and React. I also have experience with Next.js, Node.js, PostgreSQL, Solidity, and p5.js. I love Tailwind.
+I'm a handyman, painter, artist, writer, musician, and former web developer living in Western Massachusetts.
 
-* **I'm from Dallas, Texas**. Go Rangers! I've called Brooklyn home for the past 10 years.
+Over the years I've worked in video production, software development, marketing, education, and home services. These days I'm focused on practical work, building useful things, and creating a life with a little more freedom, community, and meaning.
 
-* **I write a Substack called [Things That Should Exist](https://thingsthatshouldexist.substack.com/)**. It started as an exploration of "how to buy land with your friends" and has evolved into a newsletter about belonging, collective power, and a sort-of journal for things I've been working on.
+I'm interested in:
 
-<!-- I spend my free time [skateboarding](https://youtu.be/9YsUplV-MJ0), [playing music with my friends](https://www.youtube.com/watch?v=aMcnQQiexLQ), and basking in the glory of nature 🏕️. -->
+* Housing and community development
+* Walkable towns and cities
+* Creative coding and technology
+* Music and audio production
+* Documentary film
+* Learning, teaching, and systems thinking
+* Making useful things with my hands
 
-In my free time, I like to read, bake bread, and work on side projects that interest me. Recently, I've been playing with various open source LLMs. I also play the guitar and write music.
+Some projects from previous chapters of my life include:
 
-<!-- I also make [art and music](/artwork/). -->
+* Writing a newsletter called [Things That Should Exist](https://thingsthatshouldexist.substack.com/)
+* Attending and documenting my experience at the [School for Poetic Computation](/sfpc-blog-index/)
+* Building software projects and open-source tools
+* Making music, films, and interactive art
+
+This site is a collection of things I've made, things I've learned, and things I've found interesting over the years.
+
+Thanks for stopping by.
