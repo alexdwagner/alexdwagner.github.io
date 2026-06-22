@@ -24,6 +24,7 @@ I used to work in tech marketing. Now I fix sinks and install ceiling fans.
 * **[Music that I've made](https://alextimer.bandcamp.com/):** Just another guy's folk and rock-flavored bandcamp page.
 
 * **[Video work](https://vimeo.com/adwagner):** In my 20's I worked as a video cameraman and editor. I also wrote and produced some of my own stuff.
+
 ---
 
  
