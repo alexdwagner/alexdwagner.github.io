@@ -11,35 +11,35 @@ Busy busy! Sunny and windy on a Sunday afternoon.
 
 *Outside our apartment*
 
-![Outside our apartment](https://alexdwagner.github.io/sfpc-blog-2016/images/alexApt.JPG)
+![Outside our apartment](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/alexApt.JPG)
 
 *On the way to the train to go to Chinatown for Dim Sum, we found some mannequin legs in the trash.*
 
-![Mannequin Legs](https://alexdwagner.github.io/sfpc-blog-2016/images/alexGusLegs.JPG)
+![Mannequin Legs](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/alexGusLegs.JPG)
 
 *The storefront location of [Decolonize This Place](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj0muuxz_HPAhVClZQKHQcaAfgQFggeMAA&url=https%3A%2F%2Fdecolonizethisplace.wordpress.com%2F&usg=AFQjCNHYxTRq9J2tzhcCjqjySoubQG2MCg&sig2=IkMJa4mW8An-PIMId2fFzg).*
 
-![Decolonize This Place](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4649.JPG)
+![Decolonize This Place](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4649.JPG)
 
 *Dim Sum took too long, so I bounced just as our number was called. I was full from eating two smaller breakfasts earlier. In Chinatown:*
 
-![Beautiful Memory Desserts](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4651.JPG)
+![Beautiful Memory Desserts](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4651.JPG)
 
 *Walking through Soho, back to SFPC.* [Here's some sound of my walk to accompany these photos.](https://www.dropbox.com/s/ui6ccghostcj03p/5%20Minutes%20In%20Manhattan.m4a?dl=0)
 
-![Feet Walking GIF](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4655.gif)
+![Feet Walking GIF](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4655.gif)
 
 *Sixth Ave., walking back to SFPC.*
 
-![Sixth Ave., walking back.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4654.JPG)
+![Sixth Ave., walking back.](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4654.JPG)
 
 *Eight Ave., walking back.*
 
-![Eight Ave., walking back](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4659.JPG)
+![Eight Ave., walking back](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4659.JPG)
 
 *And hopefully if I have time today, I can take a peek at this online class .*
 
-![Python, Data, and Machine Learning Class](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4648.PNG)
+![Python, Data, and Machine Learning Class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4648.PNG)
 
 -----
 

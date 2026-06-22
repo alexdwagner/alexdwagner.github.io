@@ -7,7 +7,7 @@ categories: Ingrid Burrington, ARCH, Eyebeam, Internship
 
 Today, we presented our "computational diaries" in Ingrid's class. Then, to Eyebeam to intern. Then, to do laundry and work on this blog.
 
-![MTA](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6767.JPG)
+![MTA](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6767.JPG)
 
 -----
 
@@ -15,11 +15,11 @@ Today, we presented our "computational diaries" in Ingrid's class. Then, to Eyeb
 
 *Motorcycle Dreams*
 
-![moto blue](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6764.JPG)
+![moto blue](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6764.JPG)
 
 *MTA workers painting to ceiling of the 14th st. station.*
 
-![MTA](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6767.JPG)
+![MTA](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6767.JPG)
 
 "Hey man, why do you have to take pictures of us?! Why?! What's your problem? Why are you doing this?!"
 "I'm sorry, man! ... I'm weird!!"

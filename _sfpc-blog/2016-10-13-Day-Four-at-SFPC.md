@@ -21,7 +21,7 @@ From the class description:
 
 I look forward to reading her new book as well:
 
-[![Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure](https://alexdwagner.github.io/sfpc-blog-2016/images/networksOfNYC.jpg)](https://www.amazon.com/Networks-New-York-Illustrated-Infrastructure/dp/1612195423/ref=sr_1_1?ie=UTF8&qid=1476388342&sr=8-1&keywords=ingrid+burrington)
+[![Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/networksOfNYC.jpg)](https://www.amazon.com/Networks-New-York-Illustrated-Infrastructure/dp/1612195423/ref=sr_1_1?ie=UTF8&qid=1476388342&sr=8-1&keywords=ingrid+burrington)
 
 ---
 

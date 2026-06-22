@@ -19,7 +19,7 @@ I hope to remember to ask him someday.
 
 It wasn't great. It wasn't terrible. I had it for lunch.
 
-![DAG Ramn](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6838.JPG)
+![DAG Ramn](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6838.JPG)
 
 <h2>Britney</h2>
 
@@ -31,9 +31,9 @@ Thank god Britney showed up to hang out and ended up helping me put up the major
 
 *Here's mid-way through posting the installation.*
 
-![Installation](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6839.JPG)
+![Installation](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6839.JPG)
 
-![Installation](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6842.JPG)
+![Installation](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6842.JPG)
 
 <h2>Hitting a Wall</h2>
 
@@ -53,7 +53,7 @@ Agustin and I walked the ten blocks to the A/C at 14th st. and eventually made i
 
 Eggs, sausage and toast at The Bust Stop Cafe. Caught up on some much needed journaling and got a solid solo breakfast in.
 
-![Bus Stop brekky](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6836.JPG)
+![Bus Stop brekky](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6836.JPG)
 
 **For Lunch:**
 

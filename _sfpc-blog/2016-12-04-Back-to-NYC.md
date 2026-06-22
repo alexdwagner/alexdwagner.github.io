@@ -7,7 +7,7 @@ categories: back to NYC, hoboken, selfie, cemetery lunch, picnic
 
 Had a great porchside breakfast, packed up and said goodbye to our hosts, zoomed down the Taconic and we were back in NYC by late afternoon. Returned the car in Hoboken and traveled back to Brooklyn to get some sleep.
 
-![lunch](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6746.jpg)
+![lunch](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6746.jpg)
 
 -----
 
@@ -21,7 +21,7 @@ Driving back into the city. Highways and byways.
 
 *Car selfie. Sad for our getaway weekend to be over.*
 
-![Car selfie](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6748.jpg)
+![Car selfie](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6748.jpg)
 
 -----
 
@@ -39,7 +39,7 @@ Baked eggs with bacon, caramelized onion, mozzarella, and toast. So good. Should
 
 Chicken cutlets on a cemetery sidewalk.
 
-![lunch](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6746.jpg)
+![lunch](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6746.jpg)
 
 **For Dinner:**
 

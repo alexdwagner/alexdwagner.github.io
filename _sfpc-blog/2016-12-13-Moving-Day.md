@@ -15,52 +15,52 @@ Tuesday. Moving day. Mattia and I rented a Uhaul and went to IKEA, Jersey City, 
 
 *Waiting for the train.*
 
-![Train poster](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6937.JPG)
+![Train poster](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6937.JPG)
 
 - Walked to 832 Hicks St. in Red Hook. New place.
 
-![New place](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6944.JPG)
+![New place](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6944.JPG)
 
 - Checked out cool, weird resale shops with Mattia.
 
-![Resale shop](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6952.JPG)
+![Resale shop](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6952.JPG)
 
 *King Cat*
 
-![King cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6970.JPG)
+![King cat](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6970.JPG)
 
 - Rented UHaul with Mattia.
 
 *Uhaul Cat*
 
-![Uhaul cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6981.JPG)
+![Uhaul cat](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6981.JPG)
 
 - Went to IKEA. Bought sheets and hangers and pillows.
 
-![IKEA](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7006.JPG)
+![IKEA](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7006.JPG)
 
 - Bought groceries at massive, wondrous grocery store Fairway Market, in Red Hook.
 
-![Fairway](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7011.JPG)
+![Fairway](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7011.JPG)
 
 *Behind the Fairway patio*
 
-![Fairway view](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7014.JPG)
+![Fairway view](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7014.JPG)
 
-![Fairway view](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7017.JPG)
+![Fairway view](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7017.JPG)
 
 *Fairway Patio*
 
-![Fairway view](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7019.JPG)
+![Fairway view](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7019.JPG)
 
 - Then through the Carey tunnel that goes from Red Hook to Lower Manhattan. Cost a cool $16 for our van to get through.
 - At SFPC.
 
-![Van at SFPC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7028.JPG)
+![Van at SFPC](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7028.JPG)
 
 *Dying roses in the donation jar*
 
-![Van at SFPC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7030.JPG)
+![Van at SFPC](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7030.JPG)
 
 - Took down my piece. Assisted classmate Dan Gorelick with shooting video of his project. Moved stuff out of SFPC.
 
@@ -68,12 +68,12 @@ Tuesday. Moving day. Mattia and I rented a Uhaul and went to IKEA, Jersey City, 
 - Then to Jersey City where we picked up a queen size mattress.
 - Then to my apartment to grab my stuff. They'd recently fixed the broken sink but now the water was green. So glad to be out of there.
 
-![Green water](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7036.JPG)
+![Green water](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7036.JPG)
 
 - Then to Prospect Lefferts area in BK to pick up a dining table(actually a picnic table but it's quite nice and we are artists, so we're allowed to bend the rules).
 - And finally, home. I was exhausted. Mattia may keep the van through tomorrow and go pick up a couch and anything else. I ate some cheese and tomatoes on bread and went to bed. I gave my mom a call and sent her all the photos from the day.
 
-![Bed](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7041.JPG)
+![Bed](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7041.JPG)
 
 -----
 

@@ -7,7 +7,7 @@ categories: Friday, train, NYC, family, Albany
 
 Breakfast with family in Albany. Headed back to NYC with parents. They're visiting for a couple of days to see the school and the city.
 
-![post thanks breakfast](https://alexdwagner.github.io/sfpc-blog-2016/images/11262016_thxgiv_18.JPG)
+![post thanks breakfast](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11262016_thxgiv_18.JPG)
 
 -----
 
@@ -15,41 +15,41 @@ Breakfast with family in Albany. Headed back to NYC with parents. They're visiti
 
 We had breakfast at Nona's("Would you like more sausage? Have some more sausage!") and then chased birds and fat squirrels outside with Christian's camera.
 
-![christian mirror selfie](https://alexdwagner.github.io/sfpc-blog-2016/images/11262016_thxgiv_19.JPG)
+![christian mirror selfie](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11262016_thxgiv_19.JPG)
 
 *Bird and squirrel show at the window.*
 
-![bird and squirrel show](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6167.jpg)
+![bird and squirrel show](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6167.jpg)
 
-![me and sister](https://alexdwagner.github.io/sfpc-blog-2016/images/11262016_thxgiv_23.JPG)
+![me and sister](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11262016_thxgiv_23.JPG)
 
 *"I was going to wipe the weird lettuce slime on you."*
 
-![Christian and Camille](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6186.jpg)
+![Christian and Camille](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6186.jpg)
 
-![earl the squirl](https://alexdwagner.github.io/sfpc-blog-2016/images/11262016_thxgiv_30.JPG)
+![earl the squirl](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11262016_thxgiv_30.JPG)
 
-![blue jay](https://alexdwagner.github.io/sfpc-blog-2016/images/11262016_thxgiv_33.JPG)
+![blue jay](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11262016_thxgiv_33.JPG)
 
 Said goodbye to my sister and Taylor, who were flying back to Dallas.
 
 *Breakfast remnants.*
 
-![Pie](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6189.jpg)
+![Pie](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6189.jpg)
 
 Said goodbye to Christian, Camille, and Aunt Judy, who went back to their hotel for some r and r and to take care of Lucky, the family pooch.
 
 *The secret handshake/goodbye dance*
 
-![Goodbye dance](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6194.jpg)
+![Goodbye dance](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6194.jpg)
 
 Aunt Cami and I took a quick walk around the block.
 
 *My favorite trees in the neighborhood. A certain kind of birch, in which it's bark peels off.*
 
-![peeling birch trees](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6205.jpg)
+![peeling birch trees](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6205.jpg)
 
-![peeling birch trees](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6207.jpg)
+![peeling birch trees](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6207.jpg)
 
 At around 2:30, we said goodbye to Nona, Aunt Cami, Uncle Al. We left - no, I left, with so much leftovers in plastic bags. Uncle Chris gave us and ride to the train station(thanks again!).
 
@@ -59,11 +59,11 @@ Gonna have dinner with parents and call it an early night. Need to work on schoo
 
 Saw this in Spanish Harlem, where my parents are staying in an Airbnb.
 
-![Mural](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6256.jpg)
+![Mural](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6256.jpg)
 
 Here's dad relaxin'. I think I sent this image in a text to my sister, who was back in Dallas.
 
-![Dad](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6271.jpg)
+![Dad](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6271.jpg)
 
 -----
 

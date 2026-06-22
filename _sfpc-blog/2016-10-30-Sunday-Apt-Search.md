@@ -11,15 +11,15 @@ Today I am recovering from a hangover(went to a Halloween party last night). Als
 
 *From the Bushwick Flea.*
 
-![Stuffed cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5204.jpg)
+![Stuffed cat](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5204.jpg)
 
 *Books from the apartment I went to see in Ridgewood*
 
-![Stuffed cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5209.jpg)
+![Stuffed cat](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5209.jpg)
 
 *Raining at Stephen St. and Forest.*
 
-![Stuffed cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5212.jpg)
+![Stuffed cat](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5212.jpg)
 
 -----
 

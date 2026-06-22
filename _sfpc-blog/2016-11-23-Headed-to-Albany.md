@@ -15,11 +15,11 @@ Uber Pooled from Bed Stuy to Penn Station.
 
 *From Uber Pool crossing the bridge*
 
-![iphones](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6090.JPG)
+![iphones](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6090.JPG)
 
 It wasn't too bad. Sometimes Uber Pool can take *forever*. The train is usually faster.
 
-![iphones](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6092.JPG)
+![iphones](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6092.JPG)
 
 I type this section sitting and waiting for the 8:15 Amtrak train to Albany. Was lucky to get a ticket, although I am bummed to be missing Caitlin Morris' arduino class today. When I bought last Sunday, there was only one ticket left at this time - the rest of the day was booked.
 
@@ -31,11 +31,11 @@ I feel like I haven't slept properly in a while. At least I'll have a room in Al
 
 Made it to Albany. Calm, quiet, college town. I dropped my stuff at the airbnb and set out to read, write, eat, and get a haircut.
 
-![iphones](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6106.jpg)
+![iphones](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6106.jpg)
 
 *Mid-day meal at Uncommon Grounds. Journaling time.*
 
-![iphones](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6111.jpg)
+![iphones](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6111.jpg)
 
 Soon after, my sister, her boyfriend, and mom and dad arrived at the airbnb. The rental was spacious, beds were good. They even had a guitar lying around. Not bad, not bad.
 

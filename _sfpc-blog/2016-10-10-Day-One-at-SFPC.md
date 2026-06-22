@@ -14,14 +14,14 @@ On Sunday, I went to the Pioneer Works Second Sundays monthly party and had a bl
 Here's a view from outside, at the beginning of the event:
 
 <!---
-<a href="#"><img src="https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4132.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
-<a href="#"><img src="https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4133.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4132.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4133.JPG" align="left" width="200" style="image-orientation: 90deg;"></a>
 -->
 
-![Panorama from the top of a three-story structure in Pioneer Works' backyard](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4127.JPG)
+![Panorama from the top of a three-story structure in Pioneer Works' backyard](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4127.JPG)
 
-<!-- ![Drawing from art collective Ant Farm plans for "Time Capsule"](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4132.JPG =250x)
-![Drawing from art collective Ant Farm plans for "Time Capsule"](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4133.JPG =250x)
+<!-- ![Drawing from art collective Ant Farm plans for "Time Capsule"](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4132.JPG =250x)
+![Drawing from art collective Ant Farm plans for "Time Capsule"](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4133.JPG =250x)
 -->
 Here's a view from the inside:
 
@@ -95,7 +95,7 @@ After that, Taeyoon said he had a surprise for us, but that we'd have to wait.
 
 The school was nice enough to order lunch for us, but it actually was delayed in getting there, so we got our surprise early - it was a trip to the roof of the Westbeth building!
 
-![Panorama of the view from the top of the Westbeth building](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4150.JPG)
+![Panorama of the view from the top of the Westbeth building](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4150.JPG)
 
 It was an incredible view. I hope to spend some time up there and maybe even take
 my parents there when they come to visit.
@@ -110,7 +110,7 @@ apparently Sarajevo has a very active civic-hacking community, as does Istanbul.
 
 When we came back from lunch, Mushon was a robot. For future attendees of SFPC, I don't want to spoil the group activity, but I will share a picture. We had a good time.
 
-![Mushon is a robot.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4153.JPG)
+![Mushon is a robot.](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_4153.JPG)
 
 After that, we went back to the class room and had a discussion about learning.
 Mushon posed the question, "If you could learn anything instantly, what would be good about that process and what would be bad about it?".

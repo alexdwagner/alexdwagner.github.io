@@ -13,15 +13,15 @@ Eyebeam internship in the morning. Class is taking a field trip here around mid-
 
 *Red Hook bus in the mornin'*
 
-![Red Hook Bus](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7047.JPG)
+![Red Hook Bus](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7047.JPG)
 
 *On the subway*
 
-![Devil redhead](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7050.JPG)
+![Devil redhead](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7050.JPG)
 
 *Window selfie*
 
-![Window selfie](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7054.JPG)
+![Window selfie](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7054.JPG)
 
 I got to Eyebeam a little bit after 10am to work on some videos. The class was due to arrive at 12:30p. It was all of the other interns last day at Eyebeam. Sad. I feel like I was just barely getting to know them all - Mischa, Michael, Taehee, Paula.
 
@@ -29,13 +29,13 @@ SFPC peeps started arriving at noon. At around 12:15p a few of us bopped downsta
 
 <h2>Artist Residency Workshop</h2>
 
-![Workshop](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7055.JPG)
+![Workshop](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7055.JPG)
 
 After the tour, Taeyoon gave a fantastic workshop entitled, "How to Apply for Artist Residencies".
 
 <h3>My Notes from the Workshop</h3>
 
-![Workshop](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7056.JPG)
+![Workshop](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7056.JPG)
 
 These may not make sense, but I'm including them anyway. In retrospect, I wish I'd recorded Taeyoon's talk but his github repo ["Tools for Artists"](https://github.com/tchoi8/ArtistToolKit) is a more than adequate document of this workshop.
 
@@ -86,17 +86,17 @@ We each created an artist bio, artist statement, and project description for our
 
 Afterwards, the class went for a tour of Taeyoon's studio at Dark Matter, in downtown Brooklyn. I stayed behind and did Eyebeam work and hung out with Michael and Paula, departing Eyebeam interns and siblings-in-arms.
 
-![Eyebeam picnic table](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7058.JPG)
+![Eyebeam picnic table](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7058.JPG)
 
 *I saw this on the subway ride home*
 
-![Her](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7059.JPG)
+![Her](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7059.JPG)
 
-![Her](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7060.JPG)
+![Her](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7060.JPG)
 
 Later, I went to a really bad Bill Murray-themed art show on the LES.
 
-![BM art show](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7070.JPG)
+![BM art show](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7070.JPG)
 
 -----
 

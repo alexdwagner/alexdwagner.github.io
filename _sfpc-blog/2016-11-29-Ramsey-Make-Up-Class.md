@@ -7,7 +7,7 @@ categories: ramsey, radical computer science, class, make-up
 
 Make-up class for Ramsey's Radical Computer Science class today. Our sixth of eight classes with Ramsey. We talked about building a parser using Javascript.
 
-![Ramsey's class](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6592.jpg)
+![Ramsey's class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6592.jpg)
 
 -----
 
@@ -37,33 +37,33 @@ I helped Robbie and Taeyoon set up the space, putting away beer and sweeping, an
 
 It was raining steadily. At around 630pm the crowd started to pour in. Lots of warm hellos, smiling, reminiscing. SFPC draws a kind, cool, friendly crowd. I wasn't feeling especially social but I was glad to see some friends and a have a couple of chats(and beers) before the event started. Robbie had tasked me with taking pictures of the event. I was glad to because that meant I didn't have to talk to people unless I wanted to and that I was free to move around during the talks.
 
-![Ramsey's class](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_1.JPG)
+![Ramsey's class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_1.JPG)
 
 I'll tell the rest of the evening in pictures.
 
 *Zach and Taeyoon introducing the speakers*
 
-![Ramsey's class](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_5.JPG)
+![Ramsey's class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_5.JPG)
 
 *We did a "get to know your neighbor" exercise*
 
-![Ramsey's class](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_7.JPG)
+![Ramsey's class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_7.JPG)
 
 [Georgina Lupi]() started the night with a talk about her work and "design-driven data".
 
-![Georgina Lupi](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_11.JPG)
+![Georgina Lupi](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_11.JPG)
 
 Amit gave a version of his Eyeo talk, addressing how and where art production might meet user experience(UX)
 
-![Amit Pitaru](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_11.JPG)
+![Amit Pitaru](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_11.JPG)
 
 Next, we had Leona (last name), who is a blind artist, writer, and performer. She gave a reading from her play, ..., which is about Helen Keller's time in vaudeville. I'll never think about "Yes, We Have No Bananas" the same.
 
-![Leona](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_20.JPG)
+![Leona](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_20.JPG)
 
 Jürg Lehni finished the night with a talk about his automated wall-drawing machines. All of the speakers were great but I was especially glad to hear Jürg speak. I've been a fan of his work for a while.
 
-![Jürg](https://alexdwagner.github.io/sfpc-blog-2016/images/11292016_SFPCFallSalon2016_14.JPG)
+![Jürg](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/11292016_SFPCFallSalon2016_14.JPG)
 
 -----
 

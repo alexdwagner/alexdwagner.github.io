@@ -7,7 +7,7 @@ categories: frankel's, self-care, good food, ramen
 
 Sunday. The day I discovered [Frankel's Delicatessen](http://frankelsdelicatessen.com/) in Williamsburg. A day that I will forever cherish.
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6544.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6544.JPG)
 
 -----
 
@@ -15,23 +15,23 @@ Sunday. The day I discovered [Frankel's Delicatessen](http://frankelsdelicatesse
 
 Walking to Frankel's.
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6544.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6544.JPG)
 
 Sandwiches and latkes at Frankel's.
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6544.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6544.JPG)
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6545.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6545.JPG)
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6546.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6546.JPG)
 
 Meme Antenna, next to the Spoonbill and Sugartown bookstore in Williamsburg.
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6548.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6548.JPG)
 
 View from a coffeeshop in Williamsburg.
 
-![Frankel's Pastrami](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6560.JPG)
+![Frankel's Pastrami](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6560.JPG)
 
 -----
 

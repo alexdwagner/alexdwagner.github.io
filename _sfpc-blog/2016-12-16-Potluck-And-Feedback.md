@@ -13,7 +13,7 @@ Today was our last day at SFPC. We had a potluck-style lunch in the kitchen and 
 
 *How I Felt the Last Day of School*
 
-![West Village](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7153.JPG)
+![West Village](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7153.JPG)
 
 Arrived at school at noon. It was a long cold perilous trek up from Red Hook where I now live to Soho and then the West Village. It's been tough traveling to school in the cold just like it's been tough traveling to school period. 5-6 days a week and an hour on the train each way. If it sounds like I'm complaining, maybe I am, but it also just wears you down. My favorite part of school being over is that I'll no longer have to commute.
 
@@ -23,15 +23,15 @@ I'd brought chocolate rugelach from Citarella and was forcing them on anyone who
 
 Adnan made garlic bread. Jason, Bryan, and another made a big salad. Hiroshi made tamari sushi.
 
-![Potluck](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7155.JPG)
+![Potluck](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7155.JPG)
 
-![Potluck](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7156.JPG)
+![Potluck](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7156.JPG)
 
 Pretty soon we were seated at our big classroom table and eating. The whole class was there, save for Ruby. Her presence was missed. Ingrid B. was also there. Talked to her about travel plans over the holidays and the upsides and (mostly)downsides of owning a car in NYC.
 
-![Potluck](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7165.JPG)
+![Potluck](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7165.JPG)
 
-![Potluck](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7162.JPG)
+![Potluck](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7162.JPG)
 
 It was a good meal. I spoke to Hiroshi for some time and was really glad to finally have had a conversation with him. He's a really interesting dude.
 
@@ -61,17 +61,17 @@ Downstairs, I felt like I coat-checked half my life: my backpack with laptop, a 
 
 We went straight to the Dreamlands exhibit on the 5th floor. An exhibit on immersive cinema. Photos from then:
 
-![Whitney](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7167.JPG)
+![Whitney](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7167.JPG)
 
-![Whitney](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7193.JPG)
+![Whitney](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7193.JPG)
 
-![Whitney](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7191.JPG)
+![Whitney](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7191.JPG)
 
 I particularly enjoyed Hito Steyerl's work, *Factory of the Sun*. She's probably one of my favorite living artists and writers.
 
-![Whitney](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7188.JPG)
+![Whitney](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7188.JPG)
 
-![Whitney](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_7189.JPG)
+![Whitney](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_7189.JPG)
 
 After the Whitney, Dannie and I took a train to the holiday party at Dark Matter. It was pretty lively. I stayed for a couple hours, had some drinks, talked to folks, and then took a long walk in the cold to the G, and then a long walk from the 9th st.-Smith ave. station nearest my home.
 

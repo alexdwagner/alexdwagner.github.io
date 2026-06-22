@@ -17,9 +17,9 @@ Oh, and the US presidential election is tonight. Eyebeam is hosting a come-one, 
 
 *Gentrification in Bed Stuy*
 
-![Gentrifying Bed Stuy](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5479.jpg)
+![Gentrifying Bed Stuy](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5479.jpg)
 
-![Gentrifying Bed Stuy](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5481.jpg)
+![Gentrifying Bed Stuy](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5481.jpg)
 
 <h2>This Is Why You Should Never AirBnB for Longer than Two Weeks</h2>
 
@@ -37,13 +37,13 @@ Hopefully, this weekend. Or maybe never.
 
 <h2>Prospect Park, Revisited</h2>
 
-![Pano park](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5485.jpg)
+![Pano park](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5485.jpg)
 
 Did some reading in Prospect Park today. Such a good place.
 
-![Skaters in the park](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5484.gif)
+![Skaters in the park](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5484.gif)
 
-![POV bike](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5486.gif)
+![POV bike](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5486.gif)
 -----
 
 <h2>Eyebeam Internship</h2>
@@ -56,7 +56,7 @@ Biked there. Got Pupusas at my beloved Inez Bakery. Chicharrones y queso. Made f
 
 *The freshly mopped floor of Inez Bakery*
 
-![Inez floor](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5487.jpg)
+![Inez floor](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5487.jpg)
 
 Working on a post about [Radical Networks](www.radicalnetworks.org) and a video edit about their [Playable Fashion]() program. Got some good interview footage of the Rad Netz founders at the event, so maybe possibly a video soon as well?
 
@@ -66,11 +66,11 @@ Working on a post about [Radical Networks](www.radicalnetworks.org) and a video 
 
 At around 7pm, we had a taco dinner and started to watch the election results come in. Here's a picture from around 11pm:
 
-![Election party](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5489.jpg)
+![Election party](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5489.jpg)
 
 I left at about 12:30a and didn't get home - from one of the longest, most agonizing train journeys of my life - until 2:30a.
 
-![Pano park](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5491.jpg)
+![Pano park](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5491.jpg)
 
 When I got home it was confirmed that Trump had clinched the presidency. I decided that I might not go to school that morning.
 

@@ -15,15 +15,15 @@ It was a heck of a day. That's right, a heck. A real hecking heck.
 
 My story begins here, at the bus stop on Throop and Madison.
 
-![Bus Stop](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5494.jpg)
+![Bus Stop](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5494.jpg)
 
 I took the bus, then a train to Trump tower to meet my friend Cecile, who is a French journaliste par excellence.
 
 *From the train platform*
 
-![From the train platform](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5498.jpg)
+![From the train platform](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5498.jpg)
 
-![From the train platform](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5502.jpg)
+![From the train platform](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5502.jpg)
 
 **Our assignment:** we were looking for Trump supporters to interview, to explain to a European audience why Donald Trump won the presidential election in the United States of America.
 
@@ -39,7 +39,7 @@ On the sidewalk, we soon met Joey, a 24-year old commercial fisherman from Orlan
 
 *Panasonic GH4, our weapon of choice for the day*
 
-![Pana GH4](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5510.jpg)
+![Pana GH4](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5510.jpg)
 
 At Cecile's apartment, Cecile made us omelettes for lunch. They were so good!
 
@@ -51,13 +51,13 @@ Joey was really patient with us, and we were extremely lucky to find him. I don'
 
 After that, the whole crew - me, Melanie, Cecile, and Joey - ubered from Harlem through rush hour traffic to Park Slope to interview Jill Stein. It took about an hour and a half to get from Harlem to Park Slope.
 
-![Car ride to Jill Stein interview](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5511.gif)
+![Car ride to Jill Stein interview](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5511.gif)
 
 We got to the Park Slope apartment where we were filming the interview, and set up our gear in a small living room.
 
 *This is our shot, without Jill Stein in it*
 
-![From the train platform](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5514.jpg)
+![From the train platform](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5514.jpg)
 
 I know, I know - you're probably thinking "Oh that's the candidate who ruined the election and doesn't believe in vaccines." Believe what you want about the election, but I can tell you that the notion that Stein doesn't believe in vaccines is misinformation. She's a doctor, for chrissakes.
 
@@ -69,11 +69,11 @@ After that, we took another uber to SFPC. We took a picture together and said go
 
 *Crew photo*
 
-![Crew photo](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5517.jpg)
+![Crew photo](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5517.jpg)
 
 Also, Bryan was there with his dog, Stella("The Space Chicken").
 
-![Stella dog](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5519.gif)
+![Stella dog](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_5519.gif)
 
 At around 10pm, Cecile began to work on the edit and Melanie and I bought groceries and wine, then got burgers at The Bus Stop Cafe. I was ravenously hunger - the burger hit the spot. Over dinner, Melanie told me the story of how the documentary project came together and we talked about central Oregon and Portland and how pretty that part of the country is.
 

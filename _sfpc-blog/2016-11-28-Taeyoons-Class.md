@@ -7,7 +7,7 @@ categories: Taeyoon, class, freelance, exhaustion
 
 We had Taeyoon's class today. The lecture was "Learning to Teach".
 
-![Taeyoon's Class](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6562.JPG)
+![Taeyoon's Class](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6562.JPG)
 
 -----
 <h2>Taeyoon's Class: Learning to Teach</h2>
@@ -79,13 +79,13 @@ Lastly, at the end of class, we designed a four-class curriculum for six student
 
 <h2>Hudson Pier Walk: Late Afternoon</h2>
 
-![Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6573.jpg)
+![Hudson](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6573.jpg)
 
-![Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6576.jpg)
+![Hudson](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6576.jpg)
 
-![Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6580.jpg)
+![Hudson](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6580.jpg)
 
-![Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6589.jpg)
+![Hudson](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6589.jpg)
 
 -----
 

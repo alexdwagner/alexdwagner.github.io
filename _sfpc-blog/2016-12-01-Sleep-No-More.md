@@ -7,7 +7,7 @@ categories: Thursday, Sleep No More, Eyebeam, internship
 
 Had breakfast in Bushwick with my cousin, Helen. Eyebeam internship, and then - [Sleep No More](http://sleepnomorenyc.com/#share)!
 
-![Never waste a nice day](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6628.jpg)
+![Never waste a nice day](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6628.jpg)
 
 -----
 
@@ -17,23 +17,23 @@ Met my cousin Helen at Ange Noir, a French bagel and crepe place in Bushwick. Wh
 
 *Hipster vending machine in Bushiwick, near the Morgan stop*
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6632.jpg)
+![Vending machine](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6632.jpg)
 
 *Googly-eyed subway movie poster*
 
-![Googly eyes](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6636.jpg)
+![Googly eyes](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6636.jpg)
 
-![Googly eyes](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6637.jpg)
+![Googly eyes](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6637.jpg)
 
 Then I had to go to SFPC to grab some hard drives. A quick ride on the L train.
 
 *Puppet workshop in Greenwich Village*
 
-![Puppets](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6642.jpg)
+![Puppets](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6642.jpg)
 
-![Puppets](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6645.jpg)
+![Puppets](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6645.jpg)
 
-![Puppets](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6647.jpg)
+![Puppets](https://raw.githubusercontent.com/alexdwagner/sfpc-blog-2016/master/images/IMG_6647.jpg)
 
 -----
 
