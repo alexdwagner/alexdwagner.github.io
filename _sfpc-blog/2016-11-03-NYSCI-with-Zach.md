@@ -13,10 +13,10 @@ Today, Zach took us to the [New York Hall of Science](http://nysci.org/) in Quee
 
 On my walk to the train.
 
-![Math Star](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5337.jpg)
+![Math Star](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5337.jpg)
 
 
-![Math Star](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5338.jpg)
+![Math Star](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5338.jpg)
 
 When I got to the 14th street stop in Manhattan, there were four cops in full paramilitary gear with assault rifles around this corner. I thought better of photographing them.
 
@@ -24,7 +24,7 @@ They seemed out of place, an overblown response to a war that isn't going to hap
 
 I walked by and their bad mood was palpable. I'm sure it is kind of a bummer being an attack dog of the state.
 
-![Cops around the corner](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5340.jpg)
+![Cops around the corner](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5340.jpg)
 
 <h2>Breakfast</h2>
 
@@ -42,11 +42,11 @@ I'm just going to post the copious picture and video I captured in the brief tim
 
 *Front of museum.*
 
-![Front of NYSCI](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5346.jpg)
+![Front of NYSCI](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5346.jpg)
 
 *Entering museum.*
 
-![Front of NYSCI](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5350.gif)
+![Front of NYSCI](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5350.gif)
 
 <h3>Here's Zach explaining to the class how his piece "Reflection Study" works.</h3>
 
@@ -60,7 +60,7 @@ I'm just going to post the copious picture and video I captured in the brief tim
 
 A gif of that.
 
-![Debug screen](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5354.gif)
+![Debug screen](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5354.gif)
 
 And then we explored the ["Connected Worlds" installation](http://design-io.com/projects/ConnectedWorlds/) next door.
 
@@ -74,19 +74,19 @@ There was a really incredible "interactive book" that went along with the exhibi
 
 *Self Portrait*
 
-![Self portrait](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5400.jpg)
+![Self portrait](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5400.jpg)
 
 Then back to SFPC on the 7 train.
 
 *Here's a hurried photo of the sunset on my way back from the grocery store.*
 
-![Sunset Hudson](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5401.jpg)
+![Sunset Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5401.jpg)
 
 We made dinner together, me, Dannie, and Jason(he lost his voice today and was speaking through the text-to-speech app on his phone, often to comedic effect). Now I'm typing up the blog for the day.
 
 *Oh, and Robby organized the hecking heck out of all of the tools and supplies. Good going, kind of jealous you got to organize all of that stuff, Robby, lol*
 
-![Organized supplies](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5402.jpg)
+![Organized supplies](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5402.jpg)
 
 -----
 

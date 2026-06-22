@@ -7,7 +7,7 @@ categories: AHOC, ARCH, Ingrid Burrington, walking tour, lower manhattan, teleco
 
 Today was our second class with Ingrid. In Lower Manhattan, she lead us on a walking tour of "the Architectural History of Computing",which , coincidentally, is the name of the class.
 
-![Class at 32 Ave of Americas](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4792.jpg)
+![Class at 32 Ave of Americas](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4792.jpg)
 
 For each location, I've included audio of the tour. You can also download the unedited audio at the bottom of this post.
 
@@ -15,7 +15,7 @@ For each location, I've included audio of the tour. You can also download the un
 
 <h2>The Map</h2>
 
-![The Map](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4685.jpg)
+![The Map](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4685.jpg)
 
 -----
 
@@ -25,13 +25,13 @@ For each location, I've included audio of the tour. You can also download the un
 
 We began at 270 Broadway Ave.
 
-![Address 270 Broadway.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4689.jpg)
+![Address 270 Broadway.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4689.jpg)
 
 Now a residential building, this is the formal central offices of the North Atlantic Army Corps of Engineers. It's also where the Manhattan Project began, in apartment 8D, in those very offices.
 
 We all agreed that the apartment is probably haunted.
 
-![Class at 270 Broadway.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4687.jpg)
+![Class at 270 Broadway.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4687.jpg)
 
 -----
 
@@ -41,13 +41,13 @@ We all agreed that the apartment is probably haunted.
 
 This is a WiFi router.
 
-![Ingrid explaining the router](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4695.jpg)
+![Ingrid explaining the router](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4695.jpg)
 
 In 2011, there was a city project that installed these routers across the city, mostly for NYC governmental agencies to communicate with each other. Mainly it's the Department of Transportation who uses these routers to generate data and metrics for programming traffic lights and things of that nature.
 
 The router was up on top of a distro box on the traffic-light pole. Here's Ingrid explaining things about the router:
 
-![Ingrid explaining the router with Baku](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4700.jpg)
+![Ingrid explaining the router with Baku](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4700.jpg)
 
 -----
 
@@ -55,7 +55,7 @@ The router was up on top of a distro box on the traffic-light pole. Here's Ingri
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/2zf6rrvlx7qfpv7/3%20-%2033%20Thomas%20St-.wav?dl=0)
 
-![Windowless tomb-like ATT power distro building](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4716.jpg)
+![Windowless tomb-like ATT power distro building](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4716.jpg)
 
 Built by [John Carl Warnecke](https://en.wikipedia.org/wiki/John_Carl_Warnecke), who also designed JFK's gravesite and was a proponent of the school of "Contextualism". Built for AT&T's "Long-Lines" division, which connects the US to telecommunications networks abroad.
 
@@ -65,7 +65,7 @@ In 1991, the central switch of the building was completely disabled because all 
 
 Here's our happy class walking to the next location. Perfect weather today, sunny and cool, but not chilly. Saw people in t-shirts.
 
-[Windowless tomb-like ATT power distro building](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4730.jpg)
+[Windowless tomb-like ATT power distro building](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4730.jpg)
 
 -----
 
@@ -73,17 +73,17 @@ Here's our happy class walking to the next location. Perfect weather today, sunn
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/xhduv6pt6i3vbhn/4%20-%20Orange%20Lines.wav?dl=0)
 
-![Orange arrows](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4732.jpg)
+![Orange arrows](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4732.jpg)
 
-![Orange arrows](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4735.jpg)
+![Orange arrows](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4735.jpg)
 
 Ingrid explained that these ubiquitous orange spray-paint markings signify to construction workers where internet cables and infrastructure are, under the street.
 
 <h3>We also found an open manhole with a righteous mess of fiberoptic cables and whatnot</h3>
 
-![Open manhole with internets exposed](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4799.jpg)
+![Open manhole with internets exposed](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4799.jpg)
 
-![Open manhole with internets exposed](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4806.jpg)
+![Open manhole with internets exposed](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4806.jpg)
 
 -----
 
@@ -91,8 +91,8 @@ Ingrid explained that these ubiquitous orange spray-paint markings signify to co
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/z9i0zb1prmdrhhx/5%20-%2060%20Hudson%20Ave-.wav?dl=0)
 
-![Ingrid and class at 60 Hudson](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4746.jpg)
-![Ingrid and class at 60 Hudson](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4739.jpg)
+![Ingrid and class at 60 Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4746.jpg)
+![Ingrid and class at 60 Hudson](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4739.jpg)
 
 A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
@@ -100,7 +100,7 @@ A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
 *We weren't allowed to take pictures inside*, but our intrepid classmate Ruby got the contact info at the front desk to set up a tour of this beautiful art deco building.
 
-![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4749.jpg)
+![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4749.jpg)
 
 -----
 
@@ -110,11 +110,11 @@ A former ["carrier hotel"](https://en.wikipedia.org/wiki/Colocation_centre).
 
 Western Union Telecommunications manhole. This manhole has been there at least since the 1930's.
 
-![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4755.jpg)
+![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4755.jpg)
 
 Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Americas.
 
-![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4762.jpg)
+![60 Hudson class reflection](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4762.jpg)
 
 -----
 
@@ -122,7 +122,7 @@ Here's Ingrid heroically pointing to our final destination, 32 Avenue of the Ame
 
 [Click here for tour audio at this location.](https://www.dropbox.com/s/7klgab82c2ndtnt/7%20-%2032%20Ave%20of%20the%20Americas.wav?dl=0)
 
-![Dan entering the building](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4771.jpg)
+![Dan entering the building](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4771.jpg)
 
 Another beautiful art deco building, and former carrier hotel. Listen to the audio(^link above)for more of the story on this building.
 
@@ -130,7 +130,7 @@ Fantastic mosaic pieces inside depicting each continent.
 
 *"-PHONE WIRES AND RADIO UNITE TO MAKE NEIGHBORS OF NATIONS"*
 
-![Telecom Mosaic Map](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4772.jpg)
+![Telecom Mosaic Map](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4772.jpg)
 
 -----
 

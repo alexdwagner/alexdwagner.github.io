@@ -7,7 +7,7 @@ categories: SFPC, Bitforms, Chelsea Open Studios, Zach Lieberman, Casey Reas, Ma
 
 Today is a Saturday. Rode my bike from Ditmas Park in Brooklyn, across Manhattan Bridge, and to the Bitforms gallery on the Lower East Side, to see [Casey Reas' exhibition](http://www.bitforms.com/artists/reas), which they are taking down this weekend.
 
-![Inside of Bitforms Gallery Casey Reas' Work](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4242.JPG)
+![Inside of Bitforms Gallery Casey Reas' Work](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4242.JPG)
 
 If you don't know [Casey Reas](www.reas.com), he's an artist that primarily works with code to create generative visual artworks. He's also the co-creator of [Processing](www.processing.org), with [Ben Fry](www.benfry.com).
 
@@ -25,23 +25,23 @@ I think Zach Lieberman's(SFPC co-founder) recent work is an interesting contrast
 
 [Open House New York](http://www.ohny.org/) is happening today. I need to get more work done tonight, so this part won't be very descriptive, but here are some pictures from studios in the Westbeth building!
 
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4260.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4263.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4260.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4263.JPG)
 
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4265.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4274.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4277.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4265.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4274.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4277.JPG)
 
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4279_ps.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4280_ps.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4281_ps.JPG)
-![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4295_ps.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4279_ps.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4280_ps.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4281_ps.JPG)
+![Open House NYC](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4295_ps.JPG)
 
 -----
 
 Also, Medhir(classmate) got a laser engraver machine. P. neat. Was up and running in no time, although there is still some dialing in to do, I believe. He is going to use it to print circuits onto fabric for a project that's he working on.
 
-![Medhir and his engraver](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4296_p.JPG)
+![Medhir and his engraver](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4296_p.JPG)
 
 -----
 

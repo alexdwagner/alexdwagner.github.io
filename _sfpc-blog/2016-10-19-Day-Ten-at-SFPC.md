@@ -7,7 +7,7 @@ categories: phillip david stearns, physical computing, itp open house, the pier,
 
 We had our first physical computing class with [Phillip David Stearns](www.phillipdavidstearns.com) today.
 
-![Hands on breadboards](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4515.gif)
+![Hands on breadboards](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4515.gif)
 
 To begin the class, Phillip showed us some of his work.
 
@@ -19,13 +19,13 @@ The rest of the class was all about electricity and electronics. A lot of the cl
 
 It was a lot to take in, but I really enjoy physical computing, so it was good medicine.
 
-![Breadboard on a white board.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4514.JPG)
+![Breadboard on a white board.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4514.JPG)
 
 -----
 
 After class, a quick lunch, and then I went to the pier for an hour and just kind of sat and closed my eyes. It's a warm day so gotta get that sun while it shines.
 
-![Sunbathers at the park at the pier](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4521.JPG)
+![Sunbathers at the park at the pier](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4521.JPG)
 
 -----
 

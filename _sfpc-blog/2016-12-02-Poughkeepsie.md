@@ -7,7 +7,7 @@ categories: Friday, Ramsey Nasser, Radical Computation,
 
 Had our seventh class with Ramsey. Then picked up a sweet car in Hoboken, and drove up to Poughkeepsie for a nice weekend.
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6670.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6670.jpg)
 
 -----
 
@@ -17,27 +17,27 @@ Had our seventh class with Ramsey. Then picked up a sweet car in Hoboken, and dr
 
 *Forever Bed Stuy*
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6656.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6656.jpg)
 
 *Clothes and Shoes, on 8th Ave.*
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6659.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6659.jpg)
 
 Had to take the path over to Hoboken(no jokin'), to pick up our car from Turo, which is a car-sharing app. It was wayyy cheaper than Zipcar, if less convenient. But Zipcar was twice as much, and we got a Lexus(niiiice)!
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6662.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6662.jpg)
 
 *Port Authority propaganda*
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6664.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6664.jpg)
 
 I met Joanna, who was the wife of the man renting us the car, at Carlo's Bakery(my choice), which is famous as the bakery from the reality TV show *Cake Boss*. I bought some sweet treats for later.
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6669.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6669.jpg)
 
 *The car*
 
-![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6670.jpg)
+![Vending machine](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6670.jpg)
 
 Then I picked up my sweetheart (in Ridgewood, Queens), and away we did ride.
 

@@ -7,7 +7,7 @@ categories: poughkeepsie, Minnewaska, guitar, Japanese food, Didi
 
 Today, sweetheart and I made breakfast, went to Minneswaska Falls, and I bought a guitar. Later, we made dinner and had a little party with our Airbnb hosts.
 
-![Minnewaska waterfall](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6715.jpg)
+![Minnewaska waterfall](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6715.jpg)
 
 -----
 
@@ -15,7 +15,7 @@ Today, sweetheart and I made breakfast, went to Minneswaska Falls, and I bought 
 
 <h2>Lake Minnewaska</h2>
 
-![Minnewaska waterfall](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6714.jpg)
+![Minnewaska waterfall](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6714.jpg)
 
 We came upstate to go on a hike, that was our intended goal when we'd planned the trip last week. Lake Minnewaska wasn't much of a hike at all, but maaaan was it pretty. I could've sat by that waterfall all day, and then some.
 
@@ -29,7 +29,7 @@ After Minnewaska, we passed back through the small college town of New Paltz. We
 
 I bought the second guitar I played, an Epiphone Masterbilt. Pretty solid little acoustic guitar - nice, clear sound, low action, good sustain. Not a bad price either. I paid half of what I was ready to spend.
 
-![Guitar](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6742.jpg)
+![Guitar](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6742.jpg)
 
 Afterwards we stopped at a grocery store and wine shop to grab dinner provisions.
 
@@ -47,7 +47,7 @@ Our host Didi, was kind enough to invite us over to her home, where she was havi
 
 *This is the best picture we have of the revelry that took place.*
 
-![Didi's house](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6742.jpg)
+![Didi's house](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6742.jpg)
 
 Didi was so nice. She even gave us a bottle of Beaujolais Nouveau 2016 to take home. Hope to see her again.
 

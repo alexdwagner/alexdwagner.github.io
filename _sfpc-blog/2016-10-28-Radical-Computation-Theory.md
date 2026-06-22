@@ -13,29 +13,29 @@ Our second class Radical Computer Science class with Ramsey today. Such a good c
 
 Our block, morning light.
 
-![The block](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5068.jpg)
+![The block](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5068.jpg)
 
 Headshots in Bed Stuy.
 
-![Headshots in Bed Stuy](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5071.jpg)
+![Headshots in Bed Stuy](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5071.jpg)
 
 The Nostrand A/C stop.
 
-![Nostand and Atlantic](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5075.jpg)
+![Nostand and Atlantic](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5075.jpg)
 
 Shoes on a train.
 
-![Shoes on a train](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5076.jpg)
+![Shoes on a train](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5076.jpg)
 
 Street-crossers at 8th ave. and 14th st.
 
-![8th ave.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5080.jpg)
+![8th ave.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5080.jpg)
 
 -----
 
 <h2>SFPC So Far, Pre-Nostalgia</h2>
 
-![Tree shadows on SFPC building](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5088.jpg)
+![Tree shadows on SFPC building](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5088.jpg)
 
 Time is passing quickly. I'm experiencing a bit of nostalgia for an experience that's not yet even 1/3 over. I expect my experience of time here to pick up momentum.
 
@@ -47,20 +47,20 @@ I need to start meditating again. The only way I know to slow down time.
 
 Hanging out at the space last night, my classmate Jason Toy turned me onto an app called Style, that you can download in the Apple App Store. It allows you to use your webcam to take a photo and apply a deep learning style transfer to it. For example, that means you can apply Starry Night to your selfie. Pretty neat!
 
-![Style](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/Style1.jpg)
+![Style](https://alexdwagner.github.io/sfpc-blog-2016/images/Style1.jpg)
 
 I showed him a program called [Videogrep](https://github.com/antiboredom/videogrep), a tool created by [Sam Lavigne](http://lav.io) to easily create video supercuts.
 
 Jason and I are talking about collaborating on a project combining deep learning and video. Check out his Tensorflow resources page on github - it's exhaustive(in a really good way)!
 
-![Style](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/Style2.jpg)
-![Style](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/Style3.jpg)
+![Style](https://alexdwagner.github.io/sfpc-blog-2016/images/Style2.jpg)
+![Style](https://alexdwagner.github.io/sfpc-blog-2016/images/Style3.jpg)
 
 -----
 
 <h2>Radical Computer Science: "Computation Theory"</h2>
 
-![Pano of class](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5090.jpg)
+![Pano of class](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5090.jpg)
 
 **We discussed:**
 
@@ -107,11 +107,11 @@ Halloween weekend! The infamous [Bike kill](https://www.facebook.com/events/1145
 
 Grilled egg and cheese with sriracha demiglaze.
 
-![](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5095.jpg)
+![](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5095.jpg)
 
 Also, we put in a work order for our broken sink yesterday at the Westbeth front desk and the super came today and fixed it. Hooray!
 
-![Sink](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5091.jpg)
+![Sink](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5091.jpg)
 
 **For Dinner:** ?
 

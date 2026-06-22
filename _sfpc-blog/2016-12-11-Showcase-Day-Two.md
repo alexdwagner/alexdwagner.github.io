@@ -15,46 +15,46 @@ The first part of the day, told in photos.
 
 *In the morning, at Beny's Delicatessen.*
 
-![Sick of the C](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6869.JPG)
+![Sick of the C](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6869.JPG)
 
 *Lil' church Sunday School trailer in Bed Stuy.*
 
-![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6873.JPG)
+![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6873.JPG)
 
-![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6875.JPG)
+![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6875.JPG)
 
-![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6878.JPG)
+![Sunday Schoo Trailer](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6878.JPG)
 
 *View from my train station, 9th St.-Smith Ave., of Gowanus Canal.*
 
-![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6882.JPG)
+![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6882.JPG)
 
 *Pano of G train.*
 
-![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6889.JPG)
+![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6889.JPG)
 
-![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6888.JPG)
+![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6888.JPG)
 
 And for the second part of the day, here's a list.
 
 - Came into SFPC at 2p.
 - Talked to some people. My friend Jo showed up. Good to see her.
 
-![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/AlexJoDeepDream.png)
+![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/images/AlexJoDeepDream.png)
 
 It started snowing after she left at 4pm.
 
 - A couple more photos from Showcase: Day Two.
 
-![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6892.JPG)
+![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6892.JPG)
 
-![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6894.JPG)
+![Showcase](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6894.JPG)
 
 - I started to get tired and left SFPC around 7p.
 
 *In Brooklyn, on the walk home.*
 
-![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6896.JPG)
+![Gowanus Canal](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6896.JPG)
 
 - Got home. Bryan came over from Bushwick and we had some beers. We got some food at Peaches Hothouse, a southern-style restaurant on Tompkins. It took an hour to get our food, but hey, that's New York sometimes. The food did taste good.
 - Later, at the house, Bryan, Dannie, and I talked and kvetched about our experiences at SFPC. We all agreed the scheduling could've been a *lot* better, and that we would've liked it if Taeyoon and Lauren were more present during the 10 weeks.

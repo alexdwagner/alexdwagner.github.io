@@ -7,7 +7,7 @@ categories: weekend, walking, music, Brooklyn, food
 
 It's our seventh day at SFPC. Actually, it's a Sunday, and I'm not even at SFPC, but my thinking is that even though I'm not physically at the school, the school is still very much on my mind - therefore, I am still "in" school.
 
-![Pano image of 8th street](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4361.JPG)
+![Pano image of 8th street](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4361.JPG)
 
 I need to figure out something for our "Meet the Students" event this Wednesday, and I need to start working on a project or three. I'll discuss some of them in this post.
 
@@ -24,15 +24,15 @@ That's not everything but that's what I've been thinking about today.
 
 Today, I had a late breakfast at [George's](http://www.ditmasgeorge.com), an old diner in Ditmas Park that's been around since the 1980's I believe. The buttermilk pancakes were perfect. The price was good too - $10.65 for three pancakes, three sausage links, and a cup of pretty decent coffee. Not bad!
 
-![Picture of finished pancakes](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4319.JPG)
+![Picture of finished pancakes](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4319.JPG)
 
 Afterwards, I walked around the Cortelyou area of Ditmas Park. I bought some things at a dollar store - shampoo, a waiter's pad(good for notes), some price stickers(I don't know, I justed wanted them - they were a dollar). There are some handsome restaurants and cafes there, I must say.
 
-![Image of Lea's](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4328.JPG)
+![Image of Lea's](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4328.JPG)
 
 I continued walking, walking, walking down into Flatbush. It was Sunday, which means going to church in many communities. Parts of Flatbush are home to many Caribbean immigrant communities. At one point, I was walking and I heard [some powerful music](dropbox link) from behind this unassuming exterior.
 
-![Image of church with powerful music](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4339.JPG)
+![Image of church with powerful music](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4339.JPG)
 
 I've never heard anything like it. I'd like to figure out what exactly that music is and then listen to hours and hours and hours of it. Holy, lively music - so much more so than the lurching, ham-fisted organ hymns of my liberal, white, Methodist youth.
 
@@ -42,7 +42,7 @@ Pardon the sentiment but I think what happened was that, I went wandering in Fla
 
 It's 3:30p as I write this. I should be hopping in a taxi and lugging my baggage to the new place I'll be sharing with three of my SFPC classmates. It's a nice day in Ditmas and makes me miss it before I've even left.
 
-![Slow mo gif of a bee in Ditmas](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/ditmasBee.gif)
+![Slow mo gif of a bee in Ditmas](https://alexdwagner.github.io/sfpc-blog-2016/images/ditmasBee.gif)
 
 I'm sleeping here in Ditmas tonight but moving my stuff over there today, so that I can have a room to myself for one more night.
 
@@ -64,4 +64,4 @@ I also hope the train is close. Where I am now, in Ditmas, the train is like 10-
 
 **Dinner:** Dannie, Agustin, and I went to [Rowe's](https://www.yelp.com/biz/rowes-restaurant-brooklyn?osq=best+jerk+chicken), a Jamaican jerk chicken place in Bed Stuy. It was good.
 
-![Dannie and Agustin jerk chicken](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4375.JPG)
+![Dannie and Agustin jerk chicken](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4375.JPG)

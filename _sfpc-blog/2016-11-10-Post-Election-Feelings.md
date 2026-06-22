@@ -23,13 +23,13 @@ After that, a few of us hung out at SFPC, drinking and listening to Leonard Cohe
 
 My stoop. I like stoops, like 'em lots.
 
-![Stoop](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5522.jpg)  
+![Stoop](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5522.jpg)  
 
 In the morning, took an uber pool to SFPC to meet Cecile. The car ride was slow because the driver had to pick up multiple passengers. Would've been faster to take the train but I was too tired walk the 10 blocks to the train and then the 10 blocks to SFPC. I got there at 9:30am and Cecile and I went inside the building.
 
 Around 11am, we finished the edit and sent it to Arté, the TV channel.
 
-![Video editing](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5528.jpg)  
+![Video editing](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5528.jpg)  
 
 <h2>Secret iPhone Emoticons</h2>
 
@@ -37,7 +37,7 @@ During an editing break, classmate Baku showed me, as well as Cecile and Agustin
 
 Check it out:
 
-![Emoticons](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5531.jpg)  
+![Emoticons](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5531.jpg)  
 
 **To activate:**
 
@@ -57,7 +57,7 @@ After lunch, we walked to one of the pier parks on the Hudson. Weather was kind 
 
 Here's a picture at dusk, from when we were leaving.
 
-![Hudson sunset](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5534.jpg)  
+![Hudson sunset](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5534.jpg)  
 
 -----
 
@@ -95,8 +95,8 @@ I needed more pats
 
 Here are some of the puppers in question.
 
-![Riley](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5640.JPG)  
-![Short round pupper](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5674.JPG)  
+![Riley](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5640.JPG)  
+![Short round pupper](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5674.JPG)  
 
 *Fun Game:* See if you can match both puppers to their respective stanza!
 

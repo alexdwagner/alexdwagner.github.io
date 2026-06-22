@@ -7,7 +7,7 @@ categories: parents, Met, art, sfpc, visiting
 
 Went to the Met Museum with my parents. Showed them around SFPC, and then they took us out to a real nice dinner at a tapas place.
 
-![Selfie w parents](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6524.jpg)
+![Selfie w parents](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6524.jpg)
 
 -----
 
@@ -15,21 +15,21 @@ Went to the Met Museum with my parents. Showed them around SFPC, and then they t
 
 Some photos.
 
-![Selfie silly](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6302.jpg)
+![Selfie silly](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6302.jpg)
 
-![Met wide](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6308.jpg)
+![Met wide](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6308.jpg)
 
-![Phoenician beads](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6329.jpg)
+![Phoenician beads](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6329.jpg)
 
-![Girl stretching](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6358.jpg)
+![Girl stretching](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6358.jpg)
 
-![Her](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6374.jpg)
+![Her](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6374.jpg)
 
 Gertrude Stein never took no guff from nobody.
 
-![Gertrude](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6397.jpg)
+![Gertrude](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6397.jpg)
 
-![Gertrude](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6395.jpg)
+![Gertrude](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6395.jpg)
 
 <h2>Later</h2>
 
@@ -39,7 +39,7 @@ This was taken upon leaving. The outside patio area.
 
 Never again.
 
-![Airbnb](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6535.jpg)
+![Airbnb](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6535.jpg)
 
 -----
 

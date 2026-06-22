@@ -7,7 +7,7 @@ categories: Monday, iphone, ifixit, mining industry, AHOC
 
 Today in Ingrid's class, we took apart iPhones to inspect and discuss the materials inside.
 
-![iphones](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6047.jpg)
+![iphones](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6047.jpg)
 
 -----
 
@@ -15,15 +15,15 @@ Today in Ingrid's class, we took apart iPhones to inspect and discuss the materi
 
 Christmas sellers setting up this weekend.
 
-![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6045.jpg)
+![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6045.jpg)
 
 <h2>Ingrid's Class</h2>
 
 In groups of two, we took apart iPhones and gave short presentations on the different metals the phones contained(the metals to research were pre-assisnged; Dannie and I had copper).
 
-![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6049.jpg)
+![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6049.jpg)
 
-![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6051.jpg)
+![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6051.jpg)
 
 When we were starting out and were told by Ingrid to choose a phone to take apart, something in my gut told me to grab the oldest iPhone, a 3GS.
 
@@ -31,7 +31,7 @@ Turns out, the older the iPhone, the easier it is to take apart. It took me mayb
 
 I love taking things apart, so this class was a lot of fun.
 
-![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_6055.jpg)
+![tree frames](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_6055.jpg)
 
 After class, did some planning for freelance work, answered some emails, and figured out what I might be able to accomplish over the Thanksgiving break.
 

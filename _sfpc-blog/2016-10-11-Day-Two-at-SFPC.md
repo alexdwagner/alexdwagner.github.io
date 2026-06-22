@@ -7,7 +7,7 @@ categories: SFPC, Ida C. Benedetto, documentation
 
 Today was our second day at SFPC. We created our own "code of conduct" and talked about documentation with [Ida C. Benedetto](http://uncommonplaces.com).
 
-![Panorama of "three questions posters".](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4159.JPG)
+![Panorama of "three questions posters".](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4159.JPG)
 
 First, Taeyoon's homework assignment:
 
@@ -18,7 +18,7 @@ In class today, he asked us to create a blog post and share it to Medium, answer
 * What Do I Want to Make?
 
 My poster:
-![My poster.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4160.JPG)
+![My poster.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4160.JPG)
 
 My answers:
 
@@ -87,13 +87,13 @@ Being a photographer, filmmaker, and writer, I was really engaged by Ida's talk 
 
 I took a lot of notes, by hand. I've been trying to keep my laptop closed because I feel like I listen better when I take notes with pen and paper.
 
-![My notebook.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4156.JPG)
+![My notebook.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4156.JPG)
 
 ---
 
 For lunch: 3-day old Chicken Parm from Russo's in Park Slope. Most of the class went out for Indian food.
 
-![My notebook.](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_4157.JPG)
+![My notebook.](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_4157.JPG)
 
 For dinner: Peanut butter and honey sandwich scrounged from the SFPC kitchen(no image).
 

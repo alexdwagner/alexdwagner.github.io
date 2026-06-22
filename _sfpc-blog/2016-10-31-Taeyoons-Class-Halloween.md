@@ -15,15 +15,15 @@ From my walk to school today.
 
 *Reminds me of Ingrid's walk-and-talk on internet infrastructure.*
 
-![Stuffed cat](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5218.jpg)
+![Stuffed cat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5218.jpg)
 
 *In front of the Bus Stop Cafe on Hudson.*
 
-![Bus Stop skeleton](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5221.jpg)
+![Bus Stop skeleton](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5221.jpg)
 
 *In front of a laundromat.*
 
-![Dead clown laundromat](https://alexdwagner.github.io/sfpc-blog-2016/assets/sfpc-images/IMG_5223.jpg)
+![Dead clown laundromat](https://alexdwagner.github.io/sfpc-blog-2016/images/IMG_5223.jpg)
 
 -----
 
